@@ -11,8 +11,8 @@
     "geom:longitude":77.239942,
     "gn:id":"",
     "iso:country":"IN",
-    "lbl:latitude":28.588903,
-    "lbl:longitude":77.244911,
+    "lbl:latitude":28.592483,
+    "lbl:longitude":77.240503,
     "lbl:max_zoom":18.0,
     "mps:latitude":28.592483,
     "mps:longitude":77.240503,
@@ -82,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":347,
     "wof:belongsto":[
         85672123,
@@ -116,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690932503,
+    "wof:lastmodified":1694320496,
     "wof:name":"Nizamuddin West",
     "wof:parent_id":102030425,
     "wof:placetype":"neighbourhood",

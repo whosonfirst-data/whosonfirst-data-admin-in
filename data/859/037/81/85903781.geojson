@@ -12,8 +12,8 @@
     "gn:latitude":28.50254,
     "gn:longitude":77.30239,
     "iso:country":"IN",
-    "lbl:latitude":28.484384,
-    "lbl:longitude":77.309303,
+    "lbl:latitude":28.506138,
+    "lbl:longitude":77.28934,
     "lbl:max_zoom":18.0,
     "mps:latitude":28.506138,
     "mps:longitude":77.28934,
@@ -96,14 +96,14 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":23,
     "wof:belongsto":[
+        85672133,
         102191569,
         85632469,
         102030289,
-        890507901,
-        85672133
+        890507901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -128,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1683979768,
+    "wof:lastmodified":1694320496,
     "wof:name":"Badarpur",
     "wof:parent_id":102030289,
     "wof:placetype":"neighbourhood",
