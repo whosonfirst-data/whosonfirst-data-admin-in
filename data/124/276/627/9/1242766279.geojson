@@ -28,21 +28,27 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Atawala"
+    ],
+    "name:eng_x_variant":[
+        "Etaola"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632469,
-        85672133,
-        890502583
+        890502583,
+        85672133
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9892086
     },
     "wof:country":"IN",
-    "wof:geomhash":"aa552f26a8ef5c7dbf5686c125cb67f7",
+    "wof:geomhash":"4fb451139580dc174e94d043d3a07019",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +59,8 @@
         }
     ],
     "wof:id":1242766279,
-    "wof:lastmodified":1566707697,
-    "wof:name":"Etaola",
+    "wof:lastmodified":1702931836,
+    "wof:name":"Atawala",
     "wof:parent_id":890502583,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
@@ -63,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    76.74219000000002,
+    76.74219,
     29.33165,
-    76.74219000000002,
+    76.74219,
     29.33165
 ],
-  "geometry": {"coordinates":[76.74219000000002,29.33165],"type":"Point"}
+  "geometry": {"coordinates":[76.74218999999999,29.33165],"type":"Point"}
 }

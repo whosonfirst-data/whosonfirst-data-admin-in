@@ -28,14 +28,20 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Mohila"
+    ],
+    "name:eng_x_variant":[
+        "Mauhala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632469,
-        85672133,
-        1108695761
+        1108695761,
+        85672133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +59,8 @@
         }
     ],
     "wof:id":1343478853,
-    "wof:lastmodified":1566687193,
-    "wof:name":"Mauhala",
+    "wof:lastmodified":1702931826,
+    "wof:name":"Mohila",
     "wof:parent_id":1108695761,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",

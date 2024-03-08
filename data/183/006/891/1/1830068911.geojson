@@ -23,6 +23,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
+        "Kulgaon Badlapur"
+    ],
+    "name:und_x_variant":[
         "Sai"
     ],
     "src:geom":"karmashapes",
@@ -32,12 +35,13 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        85672171,
-        890501015
+        890501015,
+        85672171
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "ks:id":"KSFF3172AC976543E2AAB8150558E9FA1D"
+        "ks:id":"KSFF3172AC976543E2AAB8150558E9FA1D",
+        "wd:id":"Q588612"
     },
     "wof:country":"IN",
     "wof:geomhash":"67e1f7226cf37adbf4746d4f8cff1c18",
@@ -51,8 +55,8 @@
         }
     ],
     "wof:id":1830068911,
-    "wof:lastmodified":1683294357,
-    "wof:name":"Sai",
+    "wof:lastmodified":1702931831,
+    "wof:name":"Kulgaon Badlapur",
     "wof:parent_id":890501015,
     "wof:placetype":"locality",
     "wof:population":1093,

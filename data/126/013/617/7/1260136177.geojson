@@ -43,10 +43,14 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
-        "Hadiaya"
+        "Handiaya"
     ],
     "name:eng_x_variant":[
-        "Hadi\u0101ya"
+        "Hadi\u0101ya",
+        "Hadiaya"
+    ],
+    "name:spa_x_preferred":[
+        "Handiaya"
     ],
     "src:geom":"karmashapes",
     "src:geom_alt":[
@@ -58,13 +62,14 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        85672195,
-        1108695751
+        1108695751,
+        85672195
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1270552,
-        "ks:id":"KSEA92C475671E4AB9A1E3C66916E8E002"
+        "ks:id":"KSEA92C475671E4AB9A1E3C66916E8E002",
+        "wd:id":"Q1706489"
     },
     "wof:country":"IN",
     "wof:geom_alt":[
@@ -81,7 +86,7 @@
         }
     ],
     "wof:id":1260136177,
-    "wof:lastmodified":1682753488,
+    "wof:lastmodified":1702931820,
     "wof:name":"Hadiaya",
     "wof:parent_id":1108695751,
     "wof:placetype":"locality",
