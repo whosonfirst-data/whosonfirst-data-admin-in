@@ -47,65 +47,20 @@
     "name:als_x_preferred":[
         "Bihar"
     ],
-    "name:amh_x_preferred":[
-        "\u1265\u1213\u122d"
-    ],
     "name:ang_x_preferred":[
         "Bihar"
-    ],
-    "name:ara_x_preferred":[
-        "\u0628\u064a\u0647\u0627\u0631"
-    ],
-    "name:ara_x_variant":[
-        "\u0628\u0647\u0627\u0631"
-    ],
-    "name:asm_x_preferred":[
-        "\u09ac\u09bf\u09b9\u09be\u09f0"
     ],
     "name:ast_x_preferred":[
         "Bihar"
     ],
-    "name:azb_x_preferred":[
-        "\u0628\u06cc\u0647\u0627\u0631 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
-    ],
     "name:aze_x_preferred":[
         "Bihar"
-    ],
-    "name:bel_x_preferred":[
-        "\u0411\u0456\u0445\u0430\u0440"
-    ],
-    "name:ben_bn_x_preferred":[
-        "\u09ac\u09bf\u09b9\u09be\u09b0"
-    ],
-    "name:ben_in_x_preferred":[
-        "\u09ac\u09bf\u09b9\u09be\u09b0"
-    ],
-    "name:ben_x_preferred":[
-        "\u09ac\u09bf\u09b9\u09be\u09b0"
-    ],
-    "name:bih_x_preferred":[
-        "\u092c\u093f\u0939\u093e\u0930"
-    ],
-    "name:bod_x_preferred":[
-        "\u0f66\u0fa6\u0f72\u0f0b\u0f67\u0f71\u0f62\u0f0d"
-    ],
-    "name:bpy_x_preferred":[
-        "\u09ac\u09bf\u09b9\u09be\u09b0"
     ],
     "name:bre_x_preferred":[
         "Bihar"
     ],
-    "name:bul_x_preferred":[
-        "\u0411\u0438\u0445\u0430\u0440"
-    ],
     "name:cat_x_preferred":[
         "Bihar"
-    ],
-    "name:ces_x_preferred":[
-        "Bih\u00e1r"
-    ],
-    "name:che_x_preferred":[
-        "\u0411\u0438\u0445\u0430\u0440"
     ],
     "name:cym_x_preferred":[
         "Bihar"
@@ -116,32 +71,14 @@
     "name:deu_x_preferred":[
         "Bihar"
     ],
-    "name:div_x_preferred":[
-        "\u0784\u07a8\u0780\u07a7\u0783\u07aa"
-    ],
-    "name:dty_x_preferred":[
-        "\u092c\u093f\u0939\u093e\u0930"
-    ],
-    "name:ell_x_preferred":[
-        "\u039c\u03c0\u03b9\u03c7\u03ac\u03c1"
-    ],
     "name:eng_x_preferred":[
         "Bihar"
-    ],
-    "name:eng_x_variant":[
-        "Bih\u0101r"
-    ],
-    "name:epo_x_preferred":[
-        "Biharo"
     ],
     "name:est_x_preferred":[
         "Bihar"
     ],
     "name:eus_x_preferred":[
         "Bihar"
-    ],
-    "name:fas_x_preferred":[
-        "\u0628\u06cc\u0647\u0627\u0631"
     ],
     "name:fin_x_preferred":[
         "Bihar"
@@ -161,17 +98,8 @@
     "name:gom_x_preferred":[
         "Bihar"
     ],
-    "name:guj_x_preferred":[
-        "\u0aac\u0abf\u0ab9\u0abe\u0ab0"
-    ],
-    "name:heb_x_preferred":[
-        "\u05d1\u05d9\u05d4\u05e8"
-    ],
     "name:hif_x_preferred":[
         "Bihar"
-    ],
-    "name:hin_x_preferred":[
-        "\u092c\u093f\u0939\u093e\u0930"
     ],
     "name:hrv_x_preferred":[
         "Bihar"
@@ -179,83 +107,20 @@
     "name:hsb_x_preferred":[
         "Bihar"
     ],
-    "name:hun_x_preferred":[
-        "Bih\u00e1r"
-    ],
-    "name:hye_x_preferred":[
-        "\u0532\u056b\u0570\u0561\u0580"
-    ],
     "name:ina_x_preferred":[
         "Bihar"
     ],
     "name:ind_x_preferred":[
         "Bihar"
     ],
-    "name:isl_x_preferred":[
-        "B\u00edhar"
-    ],
     "name:ita_x_preferred":[
         "Bihar"
-    ],
-    "name:jpn_x_preferred":[
-        "\u30d3\u30cf\u30fc\u30eb\u5dde"
-    ],
-    "name:kan_x_preferred":[
-        "\u0cac\u0cbf\u0cb9\u0cbe\u0cb0"
-    ],
-    "name:kas_x_preferred":[
-        "\u0628\u06c1\u0627\u0631"
-    ],
-    "name:kat_x_preferred":[
-        "\u10d1\u10d8\u10f0\u10d0\u10e0\u10d8"
-    ],
-    "name:kor_x_preferred":[
-        "\ube44\ud558\ub974\uc8fc"
-    ],
-    "name:lat_x_preferred":[
-        "Bih\u0101ra"
-    ],
-    "name:lav_x_preferred":[
-        "Bih\u0101ra"
-    ],
-    "name:lit_x_preferred":[
-        "Biharas"
-    ],
-    "name:lrc_x_preferred":[
-        "\u0628\u06cc\u0647\u0627\u0631"
-    ],
-    "name:mai_x_preferred":[
-        "\u092c\u093f\u0939\u093e\u0930"
-    ],
-    "name:mal_x_preferred":[
-        "\u0d2c\u0d40\u0d39\u0d3e\u0d7c"
-    ],
-    "name:mal_x_variant":[
-        "\u0d2c\u0d3f\u0d39\u0d3e\u0d7c"
-    ],
-    "name:mar_x_preferred":[
-        "\u092c\u093f\u0939\u093e\u0930"
-    ],
-    "name:mkd_x_preferred":[
-        "\u0411\u0438\u0445\u0430\u0440"
     ],
     "name:mlg_x_preferred":[
         "Bihar"
     ],
-    "name:mon_x_preferred":[
-        "\u0411\u0438\u0445\u0430\u0440"
-    ],
     "name:msa_x_preferred":[
         "Bihar"
-    ],
-    "name:mya_x_preferred":[
-        "\u1018\u102e\u101f\u102c\u1015\u103c\u100a\u103a\u1014\u101a\u103a"
-    ],
-    "name:nep_x_preferred":[
-        "\u092c\u093f\u0939\u093e\u0930"
-    ],
-    "name:new_x_preferred":[
-        "\u092c\u093f\u0939\u093e\u0930"
     ],
     "name:nld_x_preferred":[
         "Bihar"
@@ -269,17 +134,8 @@
     "name:oci_x_preferred":[
         "Bihar"
     ],
-    "name:ori_x_preferred":[
-        "\u0b2c\u0b3f\u0b39\u0b3e\u0b30"
-    ],
     "name:pam_x_preferred":[
         "Bihar"
-    ],
-    "name:pan_x_preferred":[
-        "\u0a2c\u0a3f\u0a39\u0a3e\u0a30"
-    ],
-    "name:pnb_x_preferred":[
-        "\u0628\u0650\u06cc\u06c1\u0627\u0631"
     ],
     "name:pol_x_preferred":[
         "Bihar"
@@ -287,29 +143,11 @@
     "name:por_x_preferred":[
         "Bihar"
     ],
-    "name:pus_x_preferred":[
-        "\u0628\u0647\u0627\u0631"
-    ],
     "name:ron_x_preferred":[
         "Bihar"
     ],
-    "name:rus_x_preferred":[
-        "\u0411\u0438\u0445\u0430\u0440"
-    ],
-    "name:san_x_preferred":[
-        "\u092c\u093f\u0939\u093e\u0930\u0930\u093e\u091c\u094d\u092f\u092e\u094d"
-    ],
     "name:sco_x_preferred":[
         "Bihar"
-    ],
-    "name:sin_x_preferred":[
-        "\u0db6\u0dd2\u0dc4\u0dcf\u0dbb\u0dba"
-    ],
-    "name:slk_x_preferred":[
-        "Bih\u00e1r"
-    ],
-    "name:snd_x_preferred":[
-        "\u0628\u06be\u0627\u0631"
     ],
     "name:spa_x_preferred":[
         "Bihar"
@@ -317,44 +155,17 @@
     "name:sqi_x_preferred":[
         "Bihar"
     ],
-    "name:srp_x_preferred":[
-        "\u0411\u0438\u0445\u0430\u0440"
-    ],
     "name:swa_x_preferred":[
         "Bihar"
     ],
     "name:swe_x_preferred":[
         "Bihar"
     ],
-    "name:tam_x_preferred":[
-        "\u0baa\u0bbf\u0b95\u0bbe\u0bb0\u0bcd"
-    ],
-    "name:tam_x_variant":[
-        "\u0baa\u0bc0\u0b95\u0bbe\u0bb0\u0bcd"
-    ],
-    "name:tat_x_preferred":[
-        "\u0411\u0438\u04bb\u0430\u0440"
-    ],
-    "name:tel_x_preferred":[
-        "\u0c2c\u0c40\u0c39\u0c3e\u0c30\u0c4d"
-    ],
-    "name:tgk_x_preferred":[
-        "\u0411\u0438\u04b3\u0430\u0440"
-    ],
     "name:tgl_x_preferred":[
         "Bihar"
     ],
-    "name:tha_x_preferred":[
-        "\u0e23\u0e31\u0e10\u0e1e\u0e34\u0e2b\u0e32\u0e23"
-    ],
     "name:tur_x_preferred":[
         "Bihar"
-    ],
-    "name:ukr_x_preferred":[
-        "\u0411\u0456\u0445\u0430\u0440"
-    ],
-    "name:urd_x_preferred":[
-        "\u0628\u06c1\u0627\u0631"
     ],
     "name:uzb_x_preferred":[
         "Bihar"
@@ -368,17 +179,8 @@
     "name:war_x_preferred":[
         "Bihar"
     ],
-    "name:wuu_x_preferred":[
-        "\u6bd4\u54c8\u5c14\u90a6"
-    ],
-    "name:xmf_x_preferred":[
-        "\u10d1\u10d8\u10f0\u10d0\u10e0\u10d8"
-    ],
     "name:yor_x_preferred":[
         "Bihar"
-    ],
-    "name:zho_x_preferred":[
-        "\u6bd4\u54c8\u5c14\u90a6"
     ],
     "src:geom":"karmashapes",
     "src:geom_alt":[

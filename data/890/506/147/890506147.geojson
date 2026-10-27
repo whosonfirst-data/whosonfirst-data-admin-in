@@ -148,9 +148,6 @@
     "name:egl_x_preferred":[
         "Margherita"
     ],
-    "name:ell_x_preferred":[
-        "\u039c\u03b1\u03c1\u03b3\u03ba\u03b5\u03c1\u03af\u03c4\u03b1"
-    ],
     "name:eml_x_preferred":[
         "Margherita"
     ],
@@ -298,9 +295,6 @@
     "name:jbo_x_preferred":[
         "Margherita"
     ],
-    "name:jpn_x_preferred":[
-        "\u30de\u30eb\u30b2\u30ea\u30fc\u30bf"
-    ],
     "name:jut_x_preferred":[
         "Margherita"
     ],
@@ -330,9 +324,6 @@
     ],
     "name:kon_x_preferred":[
         "Margherita"
-    ],
-    "name:kor_x_preferred":[
-        "\ub9c8\ub974\uac8c\ub9ac\ud0c0"
     ],
     "name:kri_x_preferred":[
         "Margherita"
@@ -529,9 +520,6 @@
     "name:rup_x_preferred":[
         "Margherita"
     ],
-    "name:rus_x_preferred":[
-        "\u041c\u0430\u0440\u0433\u0430\u0440\u0438\u0442\u0430"
-    ],
     "name:sag_x_preferred":[
         "Margherita"
     ],
@@ -682,9 +670,6 @@
     "name:zea_x_preferred":[
         "Margherita"
     ],
-    "name:zho_x_preferred":[
-        "\u739b\u683c\u8389\u5854"
-    ],
     "name:zul_x_preferred":[
         "Margherita"
     ],
@@ -717,9 +702,7 @@
         "gn:id":1263532,
         "gp:id":2290333,
         "ks:id":"KSF61CC55CBE2041738312C06B30F85C72",
-        "qs_pg:id":946665,
-        "wd:id":"Q12900937",
-        "wk:page":"Margherita"
+        "qs_pg:id":946665
     },
     "wof:country":"IN",
     "wof:created":1469055499,
