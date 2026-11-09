@@ -43,7 +43,7 @@
         "wk:page":"Salooni"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0831d6a272818dc8732e1af8f113b6d9",
+    "wof:geomhash":"b2eb531360cb21b091835970ff808ac4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,5 +69,5 @@
     76.05058000000002,
     32.72118
 ],
-  "geometry": {"coordinates":[76.05058000000002,32.72118],"type":"Point"}
+  "geometry": {"coordinates":[76.05058,32.72118],"type":"Point"}
 }

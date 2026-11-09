@@ -43,7 +43,7 @@
         "wk:page":"Medpalli_Nakkerta"
     },
     "wof:country":"IN",
-    "wof:geomhash":"510757c5cb36118607062de5fe4d9fe3",
+    "wof:geomhash":"fc261189dd083838eff5ece3a6de494a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,5 +69,5 @@
     78.65444000000002,
     17.00333
 ],
-  "geometry": {"coordinates":[78.65444000000002,17.00333],"type":"Point"}
+  "geometry": {"coordinates":[78.65444,17.00333],"type":"Point"}
 }

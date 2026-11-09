@@ -44,7 +44,7 @@
         "wk:page":"Hubli-Dharwad"
     },
     "wof:country":"IN",
-    "wof:geomhash":"f345f9366854cd654923aa0df56b0bee",
+    "wof:geomhash":"3f6ee29aa64ed82ce1f5ed22b6bae44d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     75.0,
     15.45
 ],
-  "geometry": {"coordinates":[75.0,15.45],"type":"Point"}
+  "geometry": {"coordinates":[75,15.45],"type":"Point"}
 }

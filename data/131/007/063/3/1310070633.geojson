@@ -43,7 +43,7 @@
         "wk:page":"Hulkund"
     },
     "wof:country":"IN",
-    "wof:geomhash":"491b6ff91d378d50386d1553dcbee2f9",
+    "wof:geomhash":"c83d0961ecbe463d2b68a973a311fe13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,5 +69,5 @@
     75.96923000000002,
     12.8255
 ],
-  "geometry": {"coordinates":[75.96923000000002,12.8255],"type":"Point"}
+  "geometry": {"coordinates":[75.96923,12.8255],"type":"Point"}
 }

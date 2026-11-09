@@ -43,7 +43,7 @@
         "wk:page":"Om_beach"
     },
     "wof:country":"IN",
-    "wof:geomhash":"34002af24ed600ea59772ef6b3a9dfd4",
+    "wof:geomhash":"525fe848e6875d69d7c421412775d295",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,5 +69,5 @@
     74.32148000000002,
     14.52111
 ],
-  "geometry": {"coordinates":[74.32148000000002,14.52111],"type":"Point"}
+  "geometry": {"coordinates":[74.32148,14.52111],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Ranjal"
     },
     "wof:country":"IN",
-    "wof:geomhash":"45d5f3afb6c207cbc1400c6db857ac68",
+    "wof:geomhash":"070d938540ec0ce2ce7a47ae2f3d218b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     74.15359000000002,
     33.24617
 ],
-  "geometry": {"coordinates":[74.15359000000002,33.24617],"type":"Point"}
+  "geometry": {"coordinates":[74.15359,33.24617],"type":"Point"}
 }

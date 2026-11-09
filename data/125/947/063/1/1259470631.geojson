@@ -46,7 +46,7 @@
         "wk:page":"Patne"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c64ad79cdd25108dd38e3806bc3cb132",
+    "wof:geomhash":"113f98fe6583bfae32f24d260b4c0f85",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     77.71800999999998,
     30.63647000000001
 ],
-  "geometry": {"coordinates":[77.71800999999998,30.63647000000001],"type":"Point"}
+  "geometry": {"coordinates":[77.71801,30.63647],"type":"Point"}
 }

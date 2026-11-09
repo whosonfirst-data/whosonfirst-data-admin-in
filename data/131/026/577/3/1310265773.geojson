@@ -82,7 +82,7 @@
         "wk:page":"Singtam"
     },
     "wof:country":"IN",
-    "wof:geomhash":"167eb9f794cd6e7895e870379c26a0ff",
+    "wof:geomhash":"4ff0d705db6481a09f75aef5d6b8c532",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,5 +108,5 @@
     88.37368000000002,
     27.1475
 ],
-  "geometry": {"coordinates":[88.37368000000002,27.1475],"type":"Point"}
+  "geometry": {"coordinates":[88.37368,27.1475],"type":"Point"}
 }

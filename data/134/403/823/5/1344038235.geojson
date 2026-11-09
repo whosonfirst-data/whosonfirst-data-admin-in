@@ -43,7 +43,7 @@
         "wk:page":"Kufri"
     },
     "wof:country":"IN",
-    "wof:geomhash":"064bd4c88e7c7659f89d4a5bd3de6c16",
+    "wof:geomhash":"673376bd3fbb1d95694396943bea3386",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,5 +69,5 @@
     77.02858,
     31.18874000000001
 ],
-  "geometry": {"coordinates":[77.02858000000001,31.18874000000001],"type":"Point"}
+  "geometry": {"coordinates":[77.02858,31.18874],"type":"Point"}
 }

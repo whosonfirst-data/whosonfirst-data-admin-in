@@ -44,7 +44,7 @@
         "wk:page":"Kallianpur"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c3d8f791f2c75ff3c36f1748257d954f",
+    "wof:geomhash":"5138313f42a96e87d2c643a2b4e28f7c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,5 +69,5 @@
     74.73678000000002,
     13.39475
 ],
-  "geometry": {"coordinates":[74.73678000000002,13.39475],"type":"Point"}
+  "geometry": {"coordinates":[74.73678,13.39475],"type":"Point"}
 }

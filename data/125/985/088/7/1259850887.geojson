@@ -43,7 +43,7 @@
         "wk:page":"Teekoy"
     },
     "wof:country":"IN",
-    "wof:geomhash":"bfdd4ae1641460d45f40cc887fc284b3",
+    "wof:geomhash":"ef4857c396756e82505ed04e8f3f3ee7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,5 +69,5 @@
     76.81284000000002,
     9.70338
 ],
-  "geometry": {"coordinates":[76.81284000000002,9.70338],"type":"Point"}
+  "geometry": {"coordinates":[76.81284,9.70338],"type":"Point"}
 }

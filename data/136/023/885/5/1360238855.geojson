@@ -47,7 +47,7 @@
         "wk:page":"Revora"
     },
     "wof:country":"IN",
-    "wof:geomhash":"cb73e55719c61f75bd3c13f8d4d95ff9",
+    "wof:geomhash":"839fcd1bf4334c0bbc6eed765906fbd6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     73.85609000000002,
     15.66515
 ],
-  "geometry": {"coordinates":[73.85609000000002,15.66515],"type":"Point"}
+  "geometry": {"coordinates":[73.85609,15.66515],"type":"Point"}
 }

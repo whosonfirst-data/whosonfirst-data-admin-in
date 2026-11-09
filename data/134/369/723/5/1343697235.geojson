@@ -152,7 +152,7 @@
         "wk:page":"Badrinath"
     },
     "wof:country":"IN",
-    "wof:geomhash":"652f9ce42c679f6d92abe01fbc074f16",
+    "wof:geomhash":"acf53c54d7573a5797b6f04ecc6b946e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -178,5 +178,5 @@
     79.49408000000003,
     30.73944
 ],
-  "geometry": {"coordinates":[79.49408000000003,30.73944],"type":"Point"}
+  "geometry": {"coordinates":[79.49408,30.73944],"type":"Point"}
 }

@@ -40,7 +40,7 @@
         "ks:id":"KS1286AC4BF7BA43F9ABA1E6DF68DF5B8C"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0d8318266685973f7fa34325670f5609",
+    "wof:geomhash":"0e94505f3f2c70f5d725671e5847ee67",
     "wof:hierarchy":[
         {
             "borough_id":1511443679,
@@ -69,5 +69,5 @@
     72.833333,
     19.0
 ],
-  "geometry": {"coordinates":[72.833333,19.0],"type":"Point"}
+  "geometry": {"coordinates":[72.833333,19],"type":"Point"}
 }

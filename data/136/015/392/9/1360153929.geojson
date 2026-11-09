@@ -85,7 +85,7 @@
         "wk:page":"Digras"
     },
     "wof:country":"IN",
-    "wof:geomhash":"13be44d25bf5a6164264d5da2a129d5f",
+    "wof:geomhash":"0edba0e1b9d500450018af7c9691fb26",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -111,5 +111,5 @@
     77.23333000000002,
     18.73333
 ],
-  "geometry": {"coordinates":[77.23333000000002,18.73333],"type":"Point"}
+  "geometry": {"coordinates":[77.23333,18.73333],"type":"Point"}
 }

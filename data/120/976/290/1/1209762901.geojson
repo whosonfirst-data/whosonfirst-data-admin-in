@@ -46,7 +46,7 @@
         "wk:page":"Radhanagore"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e07426b136fb375d0ed4988aa7e8709b",
+    "wof:geomhash":"6f0288c041c00ded8b89a5bfb7dee495",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     87.86601999999998,
     22.72637000000001
 ],
-  "geometry": {"coordinates":[87.86601999999998,22.72637000000001],"type":"Point"}
+  "geometry": {"coordinates":[87.86602,22.72637],"type":"Point"}
 }

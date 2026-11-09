@@ -4,7 +4,7 @@
   "properties": {
     "src:alt_label":"unknown",
     "src:geom":"unknown",
-    "wof:geomhash":"9a28cd471c1d5f4762a1fbcd82d67e9e",
+    "wof:geomhash":"7ef86a74f9946a4cc2602f349058f652",
     "wof:id":890500841,
     "wof:repo":"whosonfirst-data-admin-in"
 },
@@ -14,5 +14,5 @@
     74.0,
     15.45
 ],
-  "geometry": {"coordinates":[74.0,15.45],"type":"Point"}
+  "geometry": {"coordinates":[74,15.45],"type":"Point"}
 }

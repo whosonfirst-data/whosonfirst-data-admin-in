@@ -43,7 +43,7 @@
         "wk:page":"Kotta"
     },
     "wof:country":"IN",
-    "wof:geomhash":"d235cff8624f0f5d3ac44361889d4f77",
+    "wof:geomhash":"c7d5159efcf0ad1954a55c9287b2c3e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,5 +69,5 @@
     77.41698000000002,
     31.17083
 ],
-  "geometry": {"coordinates":[77.41698000000002,31.17083],"type":"Point"}
+  "geometry": {"coordinates":[77.41698,31.17083],"type":"Point"}
 }

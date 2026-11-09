@@ -87,7 +87,7 @@
         "wk:page":"Munirka"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9160c999af0126c0967b164c582b338d",
+    "wof:geomhash":"86143072f7ed91f29f9c9c5892606c31",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,5 +116,5 @@
     77.17429,
     28.55529000000001
 ],
-  "geometry": {"coordinates":[77.17429,28.55529000000001],"type":"Point"}
+  "geometry": {"coordinates":[77.17429,28.55529],"type":"Point"}
 }

@@ -43,7 +43,7 @@
         "wk:page":"Lungphunlian"
     },
     "wof:country":"IN",
-    "wof:geomhash":"7d5322d0dbbd9ec8df2ff4d1410b592d",
+    "wof:geomhash":"c00bc4ced2c66fdd557325f014a2bd9b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,5 +69,5 @@
     93.3051,
     23.75762000000001
 ],
-  "geometry": {"coordinates":[93.3051,23.75762000000001],"type":"Point"}
+  "geometry": {"coordinates":[93.3051,23.75762],"type":"Point"}
 }

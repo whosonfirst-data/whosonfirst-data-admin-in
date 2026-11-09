@@ -43,7 +43,7 @@
         "wk:page":"Thabore"
     },
     "wof:country":"IN",
-    "wof:geomhash":"bfbe577a7c6c684e8d794cfb58ca2642",
+    "wof:geomhash":"dbdc657adc8696b577764fd3d2289510",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,5 +69,5 @@
     75.44899000000002,
     12.2595
 ],
-  "geometry": {"coordinates":[75.44899000000002,12.2595],"type":"Point"}
+  "geometry": {"coordinates":[75.44899,12.2595],"type":"Point"}
 }

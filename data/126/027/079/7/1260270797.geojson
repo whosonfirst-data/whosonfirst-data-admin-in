@@ -53,7 +53,7 @@
         "wk:page":"Bir%2C_Himachal_Pradesh"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0df0bdf244bae36a0f3a6c2649f26e9a",
+    "wof:geomhash":"c9df6407556e5d22a29b3a92f233b32f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     76.72558000000002,
     32.04781
 ],
-  "geometry": {"coordinates":[76.72558000000002,32.04781],"type":"Point"}
+  "geometry": {"coordinates":[76.72558,32.04781],"type":"Point"}
 }

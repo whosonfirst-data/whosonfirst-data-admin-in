@@ -39,7 +39,7 @@
         "ks:id":"KS207B6662B47C4A72A9D4B5A023F2FA1D"
     },
     "wof:country":"IN",
-    "wof:geomhash":"38bd5d90c429dee440654f5cc376389e",
+    "wof:geomhash":"79d92c6c1ddd00a221ddecc30fcb3c76",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,5 +67,5 @@
     73.62,
     17.0
 ],
-  "geometry": {"coordinates":[73.62,17.0],"type":"Point"}
+  "geometry": {"coordinates":[73.62,17],"type":"Point"}
 }

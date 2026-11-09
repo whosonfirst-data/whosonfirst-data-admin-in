@@ -76,7 +76,7 @@
     },
     "wof:country":"IN",
     "wof:created":1469055593,
-    "wof:geomhash":"cc89c0a59e7b880d7c559d8c8c41e10c",
+    "wof:geomhash":"6114965d95f9f141336b930e63498e00",
     "wof:hierarchy":[
         {
             "borough_id":1511443679,
@@ -106,5 +106,5 @@
     72.83333,
     19.0
 ],
-  "geometry": {"coordinates":[72.83333,19.0],"type":"Point"}
+  "geometry": {"coordinates":[72.83333,19],"type":"Point"}
 }

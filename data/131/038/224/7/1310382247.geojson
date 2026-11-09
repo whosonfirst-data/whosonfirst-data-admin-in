@@ -126,7 +126,7 @@
         "wk:page":"Budgam"
     },
     "wof:country":"IN",
-    "wof:geomhash":"a2e4fb759a0f68f5e6dc1a104eeb854d",
+    "wof:geomhash":"b89348da306ccc273e82b9a5081b7c48",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -161,5 +161,5 @@
     76.04444000000002,
     34.62917
 ],
-  "geometry": {"coordinates":[76.04444000000002,34.62917],"type":"Point"}
+  "geometry": {"coordinates":[76.04444,34.62917],"type":"Point"}
 }

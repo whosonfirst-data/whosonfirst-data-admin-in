@@ -42,7 +42,7 @@
         "gn:id":10732327
     },
     "wof:country":"IN",
-    "wof:geomhash":"4943619ac94488ef12e30b61b5defe39",
+    "wof:geomhash":"f9e9eead6ba4b9a8687f51e8e938f4ee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     76.93448000000002,
     31.66823
 ],
-  "geometry": {"coordinates":[76.93448000000002,31.66823],"type":"Point"}
+  "geometry": {"coordinates":[76.93448,31.66823],"type":"Point"}
 }

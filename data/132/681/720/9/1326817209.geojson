@@ -48,7 +48,7 @@
         "wk:page":"Kimsar"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2460f73a7a9a1e9be8898aa066dad01a",
+    "wof:geomhash":"08ec13c780fec108b788ceca69a4366e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     74.52599000000002,
     34.49784
 ],
-  "geometry": {"coordinates":[74.52599000000002,34.49784],"type":"Point"}
+  "geometry": {"coordinates":[74.52599,34.49784],"type":"Point"}
 }

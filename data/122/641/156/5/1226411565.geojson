@@ -50,7 +50,7 @@
         "wk:page":"Jaoli"
     },
     "wof:country":"IN",
-    "wof:geomhash":"c6d41785e87fecd63d2a4fe5072f8d2e",
+    "wof:geomhash":"d4f2ac44e6942b81ac9f287e4b77b719",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     76.38788000000002,
     17.89156000000001
 ],
-  "geometry": {"coordinates":[76.38788000000002,17.89156000000001],"type":"Point"}
+  "geometry": {"coordinates":[76.38788,17.89156],"type":"Point"}
 }

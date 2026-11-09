@@ -68,7 +68,7 @@
     "wof:breaches":[],
     "wof:country":"IN",
     "wof:created":1574360530,
-    "wof:geomhash":"7bd61590b19cca02431c8b16afb8e45a",
+    "wof:geomhash":"a245a668e23f0578bb49ea11cbfcbdbc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,5 +95,5 @@
     73.82402784072399,
     18.60249208846968
 ],
-  "geometry": {"coordinates":[73.82402784072399,18.60249208846968],"type":"Point"}
+  "geometry": {"coordinates":[73.824028,18.602492],"type":"Point"}
 }

@@ -43,7 +43,7 @@
         "wk:page":"Sangal"
     },
     "wof:country":"IN",
-    "wof:geomhash":"2273ddd679f7aa2ebe1e4b5ad6881c10",
+    "wof:geomhash":"0d4f2411b466de3287c7cfd112d7ea6f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,5 +69,5 @@
     73.64008000000003,
     24.83068
 ],
-  "geometry": {"coordinates":[73.64008000000003,24.83068],"type":"Point"}
+  "geometry": {"coordinates":[73.64008,24.83068],"type":"Point"}
 }

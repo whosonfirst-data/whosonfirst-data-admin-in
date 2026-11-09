@@ -45,7 +45,7 @@
         "gn:id":1445331
     },
     "wof:country":"IN",
-    "wof:geomhash":"c6ef77fe998acdf43e69b2b0dd0a8d07",
+    "wof:geomhash":"bf43c78bb6407cf4a5cca8457a508e00",
     "wof:hierarchy":[
         {
             "borough_id":1511390325,
@@ -75,5 +75,5 @@
     78.39999,
     17.46737000000001
 ],
-  "geometry": {"coordinates":[78.39999,17.46737000000001],"type":"Point"}
+  "geometry": {"coordinates":[78.39999,17.46737],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Akingam"
     },
     "wof:country":"IN",
-    "wof:geomhash":"ffca10ef46baa0ae3b9cd5d8d9bcb290",
+    "wof:geomhash":"5243dda3816788cebc0bc9fd5786337d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     75.23798000000002,
     33.64271
 ],
-  "geometry": {"coordinates":[75.23798000000002,33.64271],"type":"Point"}
+  "geometry": {"coordinates":[75.23798,33.64271],"type":"Point"}
 }

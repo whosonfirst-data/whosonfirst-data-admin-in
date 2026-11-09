@@ -43,7 +43,7 @@
         "wk:page":"Madhi"
     },
     "wof:country":"IN",
-    "wof:geomhash":"325748b26105be406a9337f2b25e09e3",
+    "wof:geomhash":"cd229ea3dc77b27b96bdd98557d8a185",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,5 +69,5 @@
     69.10108000000001,
     22.09173
 ],
-  "geometry": {"coordinates":[69.10108000000001,22.09173],"type":"Point"}
+  "geometry": {"coordinates":[69.10108,22.09173],"type":"Point"}
 }

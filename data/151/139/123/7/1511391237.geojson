@@ -51,7 +51,7 @@
         "wk:page":"Ber_Sarai"
     },
     "wof:country":"IN",
-    "wof:geomhash":"04e6c9f83a05af0431c83b2a888be184",
+    "wof:geomhash":"3bf8595b71ffd74e66ffeb1f6bc1f8fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     77.18283000000002,
     28.54835
 ],
-  "geometry": {"coordinates":[77.18283000000002,28.54835],"type":"Point"}
+  "geometry": {"coordinates":[77.18283,28.54835],"type":"Point"}
 }

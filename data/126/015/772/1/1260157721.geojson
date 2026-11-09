@@ -73,7 +73,7 @@
         "wk:page":"Padum"
     },
     "wof:country":"IN",
-    "wof:geomhash":"0fa0b8cc23ffedb2b2b6f6410c856c02",
+    "wof:geomhash":"0c74e836e6e18d0abdd336eb0611fc8a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,5 +110,5 @@
     76.88488000000002,
     33.46659
 ],
-  "geometry": {"coordinates":[76.88488000000002,33.46659],"type":"Point"}
+  "geometry": {"coordinates":[76.88488,33.46659],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Kunnathukal"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e91cf1564a2e9824a8314e6e25f6e401",
+    "wof:geomhash":"4b04791cd15a4df70658c2ec9f1fa2df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     77.16183000000002,
     8.39012
 ],
-  "geometry": {"coordinates":[77.16183000000002,8.39012],"type":"Point"}
+  "geometry": {"coordinates":[77.16183,8.39012],"type":"Point"}
 }

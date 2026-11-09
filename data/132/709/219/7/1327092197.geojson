@@ -63,7 +63,7 @@
         "wk:page":"Munabao"
     },
     "wof:country":"IN",
-    "wof:geomhash":"9a317a36f776d499fd209b29517358c9",
+    "wof:geomhash":"b63953edcbdfa2c357d606b51c879808",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     70.27774000000001,
     25.74346
 ],
-  "geometry": {"coordinates":[70.27774000000001,25.74346],"type":"Point"}
+  "geometry": {"coordinates":[70.27774,25.74346],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Thekkady"
     },
     "wof:country":"IN",
-    "wof:geomhash":"11ccca04442ac893d49ecc5d022aefa0",
+    "wof:geomhash":"eda721aa0084fa4eae92c850bc940e26",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     77.15999000000002,
     9.60346
 ],
-  "geometry": {"coordinates":[77.15999000000002,9.60346],"type":"Point"}
+  "geometry": {"coordinates":[77.15999,9.60346],"type":"Point"}
 }

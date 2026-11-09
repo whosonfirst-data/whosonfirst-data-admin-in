@@ -43,7 +43,7 @@
         "wk:page":"Tikunia"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e4fa5fe28e7b0e1b4aee7c16067237d1",
+    "wof:geomhash":"f85cf71ddeebbfcfd511f7b613e6ae18",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,5 +69,5 @@
     80.96649000000002,
     28.38162
 ],
-  "geometry": {"coordinates":[80.96649000000002,28.38162],"type":"Point"}
+  "geometry": {"coordinates":[80.96649,28.38162],"type":"Point"}
 }

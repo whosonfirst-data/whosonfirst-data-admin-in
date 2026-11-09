@@ -64,7 +64,7 @@
     "wof:geom_alt":[
         "geonames"
     ],
-    "wof:geomhash":"69a8f714d6a0ea607a898e4bee6b9e16",
+    "wof:geomhash":"75d7107989686cfb5bfd554dfe9d4f2a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     74.2,
     15.0
 ],
-  "geometry": {"coordinates":[74.2,15.0],"type":"Point"}
+  "geometry": {"coordinates":[74.2,15],"type":"Point"}
 }

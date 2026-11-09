@@ -78,7 +78,7 @@
         "wk:page":"Padmapur"
     },
     "wof:country":"IN",
-    "wof:geomhash":"e85aec6e3ea05c6ece114fa712e13526",
+    "wof:geomhash":"3f873ace255f0025b926ba1c35b2e67e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,5 +107,5 @@
     83.06667,
     21.0
 ],
-  "geometry": {"coordinates":[83.06667,21.0],"type":"Point"}
+  "geometry": {"coordinates":[83.06667,21],"type":"Point"}
 }

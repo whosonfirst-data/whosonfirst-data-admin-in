@@ -49,7 +49,7 @@
         "wk:page":"Lachen%2C_Sikkim"
     },
     "wof:country":"IN",
-    "wof:geomhash":"121ae92b12e6c12e0907adc89571f5fd",
+    "wof:geomhash":"0223d9c076a13a5e24985453e5ee93e0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     88.54999000000002,
     27.73042
 ],
-  "geometry": {"coordinates":[88.54999000000002,27.73042],"type":"Point"}
+  "geometry": {"coordinates":[88.54999,27.73042],"type":"Point"}
 }

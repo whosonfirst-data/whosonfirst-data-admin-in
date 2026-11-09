@@ -69,7 +69,7 @@
     "wof:breaches":[],
     "wof:country":"IN",
     "wof:created":1574360528,
-    "wof:geomhash":"d7e2c20bc2f3b068359e127aa440244e",
+    "wof:geomhash":"9f91d0b9149d385314099e088b8b8dac",
     "wof:hierarchy":[
         {
             "borough_id":1511334169,
@@ -97,5 +97,5 @@
     73.78303331476947,
     18.56770793100779
 ],
-  "geometry": {"coordinates":[73.78303331476947,18.56770793100779],"type":"Point"}
+  "geometry": {"coordinates":[73.783033,18.567708],"type":"Point"}
 }
