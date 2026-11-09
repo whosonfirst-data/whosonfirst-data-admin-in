@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        1829820869,
+        1310619093,
         1108696053,
         85672181
     ],
@@ -48,7 +48,7 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":1108696053,
-            "locality_id":1829820869,
+            "locality_id":1310619093,
             "neighbourhood_id":1846542841,
             "region_id":85672181
         }
@@ -56,7 +56,7 @@
     "wof:id":1846542841,
     "wof:lastmodified":1683599080,
     "wof:name":"Tesuya",
-    "wof:parent_id":1829820869,
+    "wof:parent_id":1310619093,
     "wof:placetype":"neighbourhood",
     "wof:population":1024,
     "wof:population_rank":3,

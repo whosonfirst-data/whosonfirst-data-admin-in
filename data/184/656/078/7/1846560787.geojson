@@ -34,7 +34,7 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        1276616101,
+        890506577,
         890502695,
         85672165
     ],
@@ -49,7 +49,7 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":890502695,
-            "locality_id":1276616101,
+            "locality_id":890506577,
             "neighbourhood_id":1846560787,
             "region_id":85672165
         }
@@ -57,7 +57,7 @@
     "wof:id":1846560787,
     "wof:lastmodified":1683607333,
     "wof:name":"Panchayath Area",
-    "wof:parent_id":1276616101,
+    "wof:parent_id":890506577,
     "wof:placetype":"neighbourhood",
     "wof:population":75,
     "wof:population_rank":1,

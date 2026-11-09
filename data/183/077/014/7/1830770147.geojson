@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        1225973037,
+        890510975,
         1108695755,
         85672209
     ],
@@ -48,7 +48,7 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":1108695755,
-            "locality_id":1225973037,
+            "locality_id":890510975,
             "neighbourhood_id":1830770147,
             "region_id":85672209
         }
@@ -56,7 +56,7 @@
     "wof:id":1830770147,
     "wof:lastmodified":1683579160,
     "wof:name":"Kot Eshwar",
-    "wof:parent_id":1225973037,
+    "wof:parent_id":890510975,
     "wof:placetype":"neighbourhood",
     "wof:population":239,
     "wof:population_rank":2,

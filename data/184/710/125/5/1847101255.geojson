@@ -139,7 +139,7 @@
         85672209,
         102191569,
         85632469,
-        1225973037,
+        890510975,
         1108695755
     ],
     "wof:breaches":[],
@@ -153,7 +153,7 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":1108695755,
-            "locality_id":1225973037,
+            "locality_id":890510975,
             "neighbourhood_id":1847101255,
             "region_id":85672209
         }
@@ -161,7 +161,7 @@
     "wof:id":1847101255,
     "wof:lastmodified":1686164478,
     "wof:name":"Fatehpur",
-    "wof:parent_id":1225973037,
+    "wof:parent_id":890510975,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

@@ -32,7 +32,7 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        1226016885,
+        890506033,
         890502257,
         85672171
     ],
@@ -47,7 +47,7 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":890502257,
-            "locality_id":1226016885,
+            "locality_id":890506033,
             "neighbourhood_id":1830133163,
             "region_id":85672171
         }
@@ -55,7 +55,7 @@
     "wof:id":1830133163,
     "wof:lastmodified":1683324363,
     "wof:name":"Paragaon",
-    "wof:parent_id":1226016885,
+    "wof:parent_id":890506033,
     "wof:placetype":"neighbourhood",
     "wof:population":2806,
     "wof:population_rank":4,

@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        1360044105,
+        1327407733,
         1108696153,
         85672157
     ],
@@ -48,7 +48,7 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":1108696153,
-            "locality_id":1360044105,
+            "locality_id":1327407733,
             "neighbourhood_id":1830772745,
             "region_id":85672157
         }
@@ -56,7 +56,7 @@
     "wof:id":1830772745,
     "wof:lastmodified":1683580316,
     "wof:name":"Jaringi",
-    "wof:parent_id":1360044105,
+    "wof:parent_id":1327407733,
     "wof:placetype":"neighbourhood",
     "wof:population":260,
     "wof:population_rank":2,

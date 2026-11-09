@@ -35,7 +35,7 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        1830065459,
+        890502807,
         890507255,
         85672149
     ],
@@ -50,7 +50,7 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":890507255,
-            "locality_id":1830065459,
+            "locality_id":890502807,
             "neighbourhood_id":1847216627,
             "region_id":85672149
         }
@@ -58,7 +58,7 @@
     "wof:id":1847216627,
     "wof:lastmodified":1683709778,
     "wof:name":"Kunayilseri",
-    "wof:parent_id":1830065459,
+    "wof:parent_id":890502807,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
