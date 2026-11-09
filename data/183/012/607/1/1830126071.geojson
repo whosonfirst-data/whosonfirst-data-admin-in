@@ -32,7 +32,7 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        1830112667,
+        890509601,
         1108696345,
         85672149
     ],
@@ -47,7 +47,7 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":1108696345,
-            "locality_id":1830112667,
+            "locality_id":890509601,
             "neighbourhood_id":1830126071,
             "region_id":85672149
         }
@@ -55,7 +55,7 @@
     "wof:id":1830126071,
     "wof:lastmodified":1683321341,
     "wof:name":"Kovilkadavu",
-    "wof:parent_id":1830112667,
+    "wof:parent_id":890509601,
     "wof:placetype":"neighbourhood",
     "wof:population":4016,
     "wof:population_rank":4,

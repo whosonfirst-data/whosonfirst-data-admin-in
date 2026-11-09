@@ -35,7 +35,7 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        1243406453,
+        890505381,
         890504131,
         85672205
     ],
@@ -50,7 +50,7 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":890504131,
-            "locality_id":1243406453,
+            "locality_id":890505381,
             "neighbourhood_id":1847078345,
             "region_id":85672205
         }
@@ -58,7 +58,7 @@
     "wof:id":1847078345,
     "wof:lastmodified":1683647531,
     "wof:name":"Telipuro",
-    "wof:parent_id":1243406453,
+    "wof:parent_id":890505381,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

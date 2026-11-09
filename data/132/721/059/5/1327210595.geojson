@@ -29,7 +29,7 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85672137,
+        1796791507,
         85632427,
         85632469
     ],
@@ -45,20 +45,20 @@
             "country_id":85632659,
             "disputed_id":85632427,
             "locality_id":1327210595,
-            "region_id":85672137
+            "region_id":1796791507
         },
         {
             "continent_id":102191569,
             "country_id":85632469,
             "disputed_id":85632427,
             "locality_id":1327210595,
-            "region_id":85672137
+            "region_id":1796791507
         }
     ],
     "wof:id":1327210595,
     "wof:lastmodified":1537000434,
     "wof:name":"Pathi Nala",
-    "wof:parent_id":85672137,
+    "wof:parent_id":1796791507,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

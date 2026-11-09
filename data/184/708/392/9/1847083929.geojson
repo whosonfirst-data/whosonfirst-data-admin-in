@@ -35,7 +35,7 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        1830108683,
+        890508281,
         1108696345,
         85672149
     ],
@@ -50,7 +50,7 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":1108696345,
-            "locality_id":1830108683,
+            "locality_id":890508281,
             "neighbourhood_id":1847083929,
             "region_id":85672149
         }
@@ -58,7 +58,7 @@
     "wof:id":1847083929,
     "wof:lastmodified":1683650048,
     "wof:name":"Vechur",
-    "wof:parent_id":1830108683,
+    "wof:parent_id":890508281,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

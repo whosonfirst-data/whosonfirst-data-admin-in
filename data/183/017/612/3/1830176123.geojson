@@ -32,7 +32,7 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        1830123583,
+        890510041,
         890511189,
         85672181
     ],
@@ -47,7 +47,7 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":890511189,
-            "locality_id":1830123583,
+            "locality_id":890510041,
             "neighbourhood_id":1830176123,
             "region_id":85672181
         }
@@ -55,7 +55,7 @@
     "wof:id":1830176123,
     "wof:lastmodified":1683342927,
     "wof:name":"Matikhula",
-    "wof:parent_id":1830123583,
+    "wof:parent_id":890510041,
     "wof:placetype":"neighbourhood",
     "wof:population":1304,
     "wof:population_rank":3,

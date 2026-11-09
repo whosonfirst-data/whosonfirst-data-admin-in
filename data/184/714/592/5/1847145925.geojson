@@ -35,7 +35,7 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        1830119117,
+        890501611,
         890507909,
         85672209
     ],
@@ -50,7 +50,7 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":890507909,
-            "locality_id":1830119117,
+            "locality_id":890501611,
             "neighbourhood_id":1847145925,
             "region_id":85672209
         }
@@ -58,7 +58,7 @@
     "wof:id":1847145925,
     "wof:lastmodified":1683677989,
     "wof:name":"Mill Colony",
-    "wof:parent_id":1830119117,
+    "wof:parent_id":890501611,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

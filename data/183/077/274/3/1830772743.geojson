@@ -47,7 +47,7 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        1360044105,
+        1327407733,
         1108696153,
         85672157
     ],
@@ -63,7 +63,7 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":1108696153,
-            "locality_id":1360044105,
+            "locality_id":1327407733,
             "neighbourhood_id":1830772743,
             "region_id":85672157
         }
@@ -71,7 +71,7 @@
     "wof:id":1830772743,
     "wof:lastmodified":1683580315,
     "wof:name":"Dalak",
-    "wof:parent_id":1360044105,
+    "wof:parent_id":1327407733,
     "wof:placetype":"neighbourhood",
     "wof:population":4426,
     "wof:population_rank":4,

@@ -35,7 +35,7 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        1209673085,
+        1209370469,
         890505293,
         85672201
     ],
@@ -50,7 +50,7 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":890505293,
-            "locality_id":1209673085,
+            "locality_id":1209370469,
             "neighbourhood_id":1847098191,
             "region_id":85672201
         }
@@ -58,7 +58,7 @@
     "wof:id":1847098191,
     "wof:lastmodified":1683656460,
     "wof:name":"Kaithwara",
-    "wof:parent_id":1209673085,
+    "wof:parent_id":1209370469,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

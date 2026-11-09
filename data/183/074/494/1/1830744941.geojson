@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        1830195671,
+        890508063,
         890507451,
         85672245
     ],
@@ -48,7 +48,7 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":890507451,
-            "locality_id":1830195671,
+            "locality_id":890508063,
             "neighbourhood_id":1830744941,
             "region_id":85672245
         }
@@ -56,7 +56,7 @@
     "wof:id":1830744941,
     "wof:lastmodified":1683567889,
     "wof:name":"Jivalsaragu",
-    "wof:parent_id":1830195671,
+    "wof:parent_id":890508063,
     "wof:placetype":"neighbourhood",
     "wof:population":4161,
     "wof:population_rank":4,

@@ -32,7 +32,7 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        1830119117,
+        890501611,
         890507909,
         85672209
     ],
@@ -47,7 +47,7 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":890507909,
-            "locality_id":1830119117,
+            "locality_id":890501611,
             "neighbourhood_id":1830139123,
             "region_id":85672209
         }
@@ -55,7 +55,7 @@
     "wof:id":1830139123,
     "wof:lastmodified":1683326906,
     "wof:name":"Baseri Khadar",
-    "wof:parent_id":1830119117,
+    "wof:parent_id":890501611,
     "wof:placetype":"neighbourhood",
     "wof:population":2758,
     "wof:population_rank":4,

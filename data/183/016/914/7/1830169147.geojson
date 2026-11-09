@@ -32,7 +32,7 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        1360039839,
+        890501773,
         1108696027,
         85672267
     ],
@@ -47,7 +47,7 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":1108696027,
-            "locality_id":1360039839,
+            "locality_id":890501773,
             "neighbourhood_id":1830169147,
             "region_id":85672267
         }
@@ -55,7 +55,7 @@
     "wof:id":1830169147,
     "wof:lastmodified":1683339937,
     "wof:name":"Hurua",
-    "wof:parent_id":1360039839,
+    "wof:parent_id":890501773,
     "wof:placetype":"neighbourhood",
     "wof:population":12165,
     "wof:population_rank":6,

@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        1830204301,
+        890504615,
         1108695813,
         85672205
     ],
@@ -48,7 +48,7 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":1108695813,
-            "locality_id":1830204301,
+            "locality_id":890504615,
             "neighbourhood_id":1830765495,
             "region_id":85672205
         }
@@ -56,7 +56,7 @@
     "wof:id":1830765495,
     "wof:lastmodified":1683577082,
     "wof:name":"Atareya",
-    "wof:parent_id":1830204301,
+    "wof:parent_id":890504615,
     "wof:placetype":"neighbourhood",
     "wof:population":1175,
     "wof:population_rank":3,

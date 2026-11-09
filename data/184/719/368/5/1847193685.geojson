@@ -44,7 +44,7 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        1260233549,
+        1209960365,
         890507577,
         85672205
     ],
@@ -59,7 +59,7 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":890507577,
-            "locality_id":1260233549,
+            "locality_id":1209960365,
             "neighbourhood_id":1847193685,
             "region_id":85672205
         }
@@ -67,7 +67,7 @@
     "wof:id":1847193685,
     "wof:lastmodified":1683699468,
     "wof:name":"Gauripur",
-    "wof:parent_id":1260233549,
+    "wof:parent_id":1209960365,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],

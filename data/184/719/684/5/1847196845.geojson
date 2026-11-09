@@ -35,7 +35,7 @@
     "wof:belongsto":[
         102191569,
         85632469,
-        1310418251,
+        890507087,
         890508205,
         85672141
     ],
@@ -50,7 +50,7 @@
             "continent_id":102191569,
             "country_id":85632469,
             "county_id":890508205,
-            "locality_id":1310418251,
+            "locality_id":890507087,
             "neighbourhood_id":1847196845,
             "region_id":85672141
         }
@@ -58,7 +58,7 @@
     "wof:id":1847196845,
     "wof:lastmodified":1683700890,
     "wof:name":"Vaddarachennampalle",
-    "wof:parent_id":1310418251,
+    "wof:parent_id":890507087,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
