@@ -122,12 +122,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Jari"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u672d\u91cc\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u96c5\u91cc\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -151,7 +145,7 @@
         }
     ],
     "wof:id":1243351075,
-    "wof:lastmodified":1636505826,
+    "wof:lastmodified":1794999722,
     "wof:name":"Jari",
     "wof:parent_id":890506041,
     "wof:placetype":"locality",

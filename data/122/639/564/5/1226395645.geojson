@@ -110,12 +110,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Sankh"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u6851\u8d6b\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u6851\u514b\u6cb3"
-    ],
     "src:geom":"karmashapes",
     "src:geom_alt":[
         "geonames"
@@ -149,7 +143,7 @@
         }
     ],
     "wof:id":1226395645,
-    "wof:lastmodified":1682666780,
+    "wof:lastmodified":1794999722,
     "wof:name":"Sankh",
     "wof:parent_id":1108696245,
     "wof:placetype":"locality",

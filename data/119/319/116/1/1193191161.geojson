@@ -124,12 +124,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Kayan"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5361\u626c\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5361\u5ef6\u6cb3"
-    ],
     "src:geom":"karmashapes",
     "src:geom_alt":[
         "geonames"
@@ -163,7 +157,7 @@
         }
     ],
     "wof:id":1193191161,
-    "wof:lastmodified":1682593008,
+    "wof:lastmodified":1794999722,
     "wof:name":"Kayan",
     "wof:parent_id":890507573,
     "wof:placetype":"locality",

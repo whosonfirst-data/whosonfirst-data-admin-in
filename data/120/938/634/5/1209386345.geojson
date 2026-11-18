@@ -93,12 +93,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Palar"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5df4\u62c9\u5c14\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5e15\u62c9\u6cb3"
-    ],
     "src:geom":"karmashapes",
     "src:geom_alt":[
         "geonames"
@@ -132,7 +126,7 @@
         }
     ],
     "wof:id":1209386345,
-    "wof:lastmodified":1682617749,
+    "wof:lastmodified":1794999722,
     "wof:name":"Palar",
     "wof:parent_id":890510745,
     "wof:placetype":"locality",

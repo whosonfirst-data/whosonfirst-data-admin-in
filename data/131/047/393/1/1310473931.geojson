@@ -59,12 +59,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Hudi"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u80e1\u8fea\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u80e1\u7b2c\u6cb3"
-    ],
     "src:geom":"karmashapes",
     "src:geom_alt":[
         "geonames"
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":1310473931,
-    "wof:lastmodified":1682867892,
+    "wof:lastmodified":1794999722,
     "wof:name":"Hudi",
     "wof:parent_id":890507055,
     "wof:placetype":"locality",
