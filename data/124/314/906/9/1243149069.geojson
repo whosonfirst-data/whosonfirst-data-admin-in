@@ -93,12 +93,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Sankh"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u6851\u8d6b\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u6851\u514b\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         1796791507,
@@ -133,7 +127,7 @@
         }
     ],
     "wof:id":1243149069,
-    "wof:lastmodified":1672959269,
+    "wof:lastmodified":1794999722,
     "wof:name":"Sankh",
     "wof:parent_id":1108695703,
     "wof:placetype":"locality",

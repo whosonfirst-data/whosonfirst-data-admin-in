@@ -100,12 +100,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Parbati"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5e15\u5c14\u5df4\u8482\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5e15\u5df4\u63d0\u6cb3"
-    ],
     "src:geom":"karmashapes",
     "src:geom_alt":[
         "geonames"
@@ -139,7 +133,7 @@
         }
     ],
     "wof:id":1293939061,
-    "wof:lastmodified":1682837519,
+    "wof:lastmodified":1794999722,
     "wof:name":"Parbati",
     "wof:parent_id":890508849,
     "wof:placetype":"locality",

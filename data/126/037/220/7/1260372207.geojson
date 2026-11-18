@@ -48,12 +48,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Hudi"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u80e1\u8fea\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u80e1\u7b2c\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -77,7 +71,7 @@
         }
     ],
     "wof:id":1260372207,
-    "wof:lastmodified":1636505649,
+    "wof:lastmodified":1794999722,
     "wof:name":"Hudi",
     "wof:parent_id":890500861,
     "wof:placetype":"locality",

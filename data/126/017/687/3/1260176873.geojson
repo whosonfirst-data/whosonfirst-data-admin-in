@@ -112,12 +112,6 @@
     "name:wol_x_preferred":[
         "Balag"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5df4\u62c9\u514b\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5df4\u62c9\u514b\u6cb3"
-    ],
     "src:geom":"karmashapes",
     "src:geom_alt":[
         "geonames"
@@ -151,7 +145,7 @@
         }
     ],
     "wof:id":1260176873,
-    "wof:lastmodified":1682754470,
+    "wof:lastmodified":1794999722,
     "wof:name":"Balak",
     "wof:parent_id":890509035,
     "wof:placetype":"locality",

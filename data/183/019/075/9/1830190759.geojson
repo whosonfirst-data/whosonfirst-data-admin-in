@@ -129,12 +129,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Jari"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u672d\u91cc\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u96c5\u91cc\u6cb3"
-    ],
     "src:geom":"karmashapes",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -162,7 +156,7 @@
         }
     ],
     "wof:id":1830190759,
-    "wof:lastmodified":1683349277,
+    "wof:lastmodified":1794999722,
     "wof:name":"Jari",
     "wof:parent_id":890504981,
     "wof:placetype":"neighbourhood",

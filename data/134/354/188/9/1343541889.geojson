@@ -123,12 +123,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Dan"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u4e39\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u9054\u6069\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -152,7 +146,7 @@
         }
     ],
     "wof:id":1343541889,
-    "wof:lastmodified":1636505286,
+    "wof:lastmodified":1794999722,
     "wof:name":"Dan",
     "wof:parent_id":890509119,
     "wof:placetype":"locality",

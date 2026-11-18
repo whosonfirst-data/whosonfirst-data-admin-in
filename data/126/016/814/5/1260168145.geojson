@@ -66,12 +66,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Patea"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5e15\u8482\u4e9a\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5e15\u63d0\u4e9e\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         1796791507,
@@ -106,7 +100,7 @@
         }
     ],
     "wof:id":1260168145,
-    "wof:lastmodified":1672957905,
+    "wof:lastmodified":1794999722,
     "wof:name":"Patea",
     "wof:parent_id":1108695737,
     "wof:placetype":"locality",
