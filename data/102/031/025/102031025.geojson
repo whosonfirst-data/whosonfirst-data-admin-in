@@ -17,8 +17,8 @@
     "ks:ks_source_id":"P|14964",
     "ks:ks_type":"VILLAGE",
     "ks:ks_ua_id":"ESA_754441",
-    "lbl:latitude":22.48694,
-    "lbl:longitude":72.873335,
+    "lbl:latitude":22.50286,
+    "lbl:longitude":72.884127,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":22.48694,
@@ -50,7 +50,7 @@
         "quattroshapes",
         "karmashapes"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"karmashapes",
     "src:population_year":"2011",
     "wof:belongsto":[

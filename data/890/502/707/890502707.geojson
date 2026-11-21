@@ -21,8 +21,8 @@
     "ks:ks_type":"VILLAGE",
     "ks:ks_uagg_id":"WSFEVO_1238502",
     "ks:ks_uagg_main":1,
-    "lbl:latitude":23.690811,
-    "lbl:longitude":87.098982,
+    "lbl:latitude":23.706295,
+    "lbl:longitude":87.078474,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
     "mps:latitude":23.690811,
@@ -113,7 +113,7 @@
         "quattroshapes",
         "karmashapes"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wd:wordcount":519,
     "wof:belongsto":[

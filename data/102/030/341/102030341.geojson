@@ -18,8 +18,8 @@
     "ks:ks_source_id":"N|-2095026",
     "ks:ks_type":"URBAN",
     "ks:ks_ua_id":"ESA_685065",
-    "lbl:latitude":20.7117,
-    "lbl:longitude":70.949972,
+    "lbl:latitude":20.71568,
+    "lbl:longitude":70.985632,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mps:latitude":20.7117,
@@ -364,7 +364,7 @@
         "quattroshapes",
         "karmashapes"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wd:wordcount":1103,
     "wof:belongsto":[

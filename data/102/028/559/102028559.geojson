@@ -19,8 +19,8 @@
     "ks:ks_source_id":"N|13983522",
     "ks:ks_type":"URBAN",
     "ks:ks_ua_id":"WSFEVO_263513",
-    "lbl:latitude":12.950639,
-    "lbl:longitude":79.93591,
+    "lbl:latitude":12.966549,
+    "lbl:longitude":79.946398,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mps:latitude":12.950639,
@@ -161,7 +161,7 @@
         "quattroshapes",
         "karmashapes"
     ],
-    "src:lbl_centroid":"mapshaper",
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wd:wordcount":700,
     "wof:belongsto":[
