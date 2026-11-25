@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -107,7 +106,7 @@
         }
     ],
     "wof:id":1847167233,
-    "wof:lastmodified":1683687587,
+    "wof:lastmodified":1795577205,
     "wof:name":"Shahpur",
     "wof:parent_id":1829992699,
     "wof:placetype":"neighbourhood",

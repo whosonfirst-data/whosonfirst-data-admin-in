@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -56,7 +55,7 @@
         }
     ],
     "wof:id":1847153563,
-    "wof:lastmodified":1683681415,
+    "wof:lastmodified":1795577205,
     "wof:name":"Ronihalli",
     "wof:parent_id":1813677185,
     "wof:placetype":"neighbourhood",

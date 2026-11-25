@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -61,7 +60,7 @@
         }
     ],
     "wof:id":1847111827,
-    "wof:lastmodified":1683662594,
+    "wof:lastmodified":1795577205,
     "wof:name":"Nauka",
     "wof:parent_id":890501419,
     "wof:placetype":"neighbourhood",

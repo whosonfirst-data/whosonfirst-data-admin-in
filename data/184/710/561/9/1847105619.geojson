@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -86,7 +85,7 @@
         }
     ],
     "wof:id":1847105619,
-    "wof:lastmodified":1683659800,
+    "wof:lastmodified":1795577205,
     "wof:name":"Gura",
     "wof:parent_id":1829915041,
     "wof:placetype":"neighbourhood",

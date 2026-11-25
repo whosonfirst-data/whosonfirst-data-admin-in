@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -182,7 +181,7 @@
         }
     ],
     "wof:id":1847088813,
-    "wof:lastmodified":1683652233,
+    "wof:lastmodified":1795577205,
     "wof:name":"Barga",
     "wof:parent_id":1813963669,
     "wof:placetype":"neighbourhood",

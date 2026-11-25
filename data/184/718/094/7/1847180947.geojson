@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -60,7 +59,7 @@
         }
     ],
     "wof:id":1847180947,
-    "wof:lastmodified":1683693746,
+    "wof:lastmodified":1795577205,
     "wof:name":"Panakkudi",
     "wof:parent_id":890507719,
     "wof:placetype":"neighbourhood",

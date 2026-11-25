@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -56,7 +55,7 @@
         }
     ],
     "wof:id":1847045031,
-    "wof:lastmodified":1683632537,
+    "wof:lastmodified":1795577205,
     "wof:name":"Dongaon Budrukh",
     "wof:parent_id":1813916451,
     "wof:placetype":"neighbourhood",

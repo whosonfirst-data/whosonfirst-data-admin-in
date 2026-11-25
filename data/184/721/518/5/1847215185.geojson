@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -71,7 +70,7 @@
         }
     ],
     "wof:id":1847215185,
-    "wof:lastmodified":1683709131,
+    "wof:lastmodified":1795577205,
     "wof:name":"Karmia",
     "wof:parent_id":1829951899,
     "wof:placetype":"neighbourhood",

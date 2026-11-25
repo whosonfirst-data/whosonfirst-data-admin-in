@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -98,7 +97,7 @@
         }
     ],
     "wof:id":1847056205,
-    "wof:lastmodified":1683637548,
+    "wof:lastmodified":1795577205,
     "wof:name":"Rasulpur",
     "wof:parent_id":1327385005,
     "wof:placetype":"neighbourhood",

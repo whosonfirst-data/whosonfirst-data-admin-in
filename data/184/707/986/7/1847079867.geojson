@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -66,7 +65,7 @@
         }
     ],
     "wof:id":1847079867,
-    "wof:lastmodified":1686548228,
+    "wof:lastmodified":1795577205,
     "wof:name":"Rajgarh Gulariha",
     "wof:parent_id":1830203643,
     "wof:placetype":"neighbourhood",

@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -56,7 +55,7 @@
         }
     ],
     "wof:id":1847238137,
-    "wof:lastmodified":1683719453,
+    "wof:lastmodified":1795577205,
     "wof:name":"Andabodi Tanda",
     "wof:parent_id":1209897947,
     "wof:placetype":"neighbourhood",

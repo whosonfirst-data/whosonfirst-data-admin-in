@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -60,7 +59,7 @@
         }
     ],
     "wof:id":1847176573,
-    "wof:lastmodified":1683691777,
+    "wof:lastmodified":1795577205,
     "wof:name":"Pata Polavaram",
     "wof:parent_id":1813820087,
     "wof:placetype":"neighbourhood",

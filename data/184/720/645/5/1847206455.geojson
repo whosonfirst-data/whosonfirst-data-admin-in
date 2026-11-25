@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -77,7 +76,7 @@
         }
     ],
     "wof:id":1847206455,
-    "wof:lastmodified":1683705213,
+    "wof:lastmodified":1795577205,
     "wof:name":"Malaka",
     "wof:parent_id":1829929513,
     "wof:placetype":"neighbourhood",

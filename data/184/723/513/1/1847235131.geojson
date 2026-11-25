@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -77,7 +76,7 @@
         }
     ],
     "wof:id":1847235131,
-    "wof:lastmodified":1683718088,
+    "wof:lastmodified":1795577205,
     "wof:name":"Saria",
     "wof:parent_id":890501719,
     "wof:placetype":"neighbourhood",

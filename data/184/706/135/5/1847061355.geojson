@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -60,7 +59,7 @@
         }
     ],
     "wof:id":1847061355,
-    "wof:lastmodified":1683639872,
+    "wof:lastmodified":1795577205,
     "wof:name":"Darhial",
     "wof:parent_id":1829882681,
     "wof:placetype":"neighbourhood",

@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -60,7 +59,7 @@
         }
     ],
     "wof:id":1847054759,
-    "wof:lastmodified":1683636904,
+    "wof:lastmodified":1795577205,
     "wof:name":"Sitakasa",
     "wof:parent_id":1813951707,
     "wof:placetype":"neighbourhood",

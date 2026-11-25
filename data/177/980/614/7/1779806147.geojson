@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000018,
     "geom:area_square_m":208050.508616,
@@ -101,7 +100,7 @@
         }
     ],
     "wof:id":1779806147,
-    "wof:lastmodified":1690933902,
+    "wof:lastmodified":1795577205,
     "wof:name":"Mulund",
     "wof:parent_id":1511443655,
     "wof:placetype":"neighbourhood",

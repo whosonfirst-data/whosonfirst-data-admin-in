@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -86,7 +85,7 @@
         }
     ],
     "wof:id":1847093371,
-    "wof:lastmodified":1683654293,
+    "wof:lastmodified":1795577205,
     "wof:name":"Amlia",
     "wof:parent_id":1829977247,
     "wof:placetype":"neighbourhood",

@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000932,
     "geom:area_square_m":9905236.223691,
@@ -62,7 +61,7 @@
         }
     ],
     "wof:id":1779806157,
-    "wof:lastmodified":1682971231,
+    "wof:lastmodified":1795577205,
     "wof:name":"L\u0101ndr\u0101n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

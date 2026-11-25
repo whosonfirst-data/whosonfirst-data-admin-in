@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -470,7 +469,7 @@
         }
     ],
     "wof:id":1847153627,
-    "wof:lastmodified":1686164294,
+    "wof:lastmodified":1795577205,
     "wof:name":"Delhi",
     "wof:parent_id":890506443,
     "wof:placetype":"neighbourhood",

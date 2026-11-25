@@ -25,6 +25,11 @@
     "name:eng_x_preferred":[
         "Nabarangapur"
     ],
+    "name:eng_x_variant":[
+        "Nowrangapur",
+        "Nowrangpur",
+        "Nabarangpur"
+    ],
     "name:hin_x_preferred":[
         "\u0928\u092c\u0930\u0902\u0917\u092a\u0941\u0930"
     ],
@@ -54,7 +59,7 @@
         }
     ],
     "wof:id":1813833859,
-    "wof:lastmodified":1686163069,
+    "wof:lastmodified":1795577205,
     "wof:name":"Nabarangapur",
     "wof:parent_id":1108696171,
     "wof:placetype":"locality",
@@ -62,7 +67,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-in",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1847073427
+    ],
     "wof:tags":[]
 },
   "bbox": [

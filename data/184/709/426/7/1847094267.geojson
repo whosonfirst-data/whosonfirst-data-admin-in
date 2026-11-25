@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -87,7 +86,7 @@
         }
     ],
     "wof:id":1847094267,
-    "wof:lastmodified":1683654694,
+    "wof:lastmodified":1795577205,
     "wof:name":"Bada Malhera",
     "wof:parent_id":1344002525,
     "wof:placetype":"neighbourhood",

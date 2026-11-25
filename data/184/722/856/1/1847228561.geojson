@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -52,7 +51,7 @@
         }
     ],
     "wof:id":1847228561,
-    "wof:lastmodified":1683715148,
+    "wof:lastmodified":1795577205,
     "wof:name":"Pathardewa",
     "wof:parent_id":1193208827,
     "wof:placetype":"neighbourhood",

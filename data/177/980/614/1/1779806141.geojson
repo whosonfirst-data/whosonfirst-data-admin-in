@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000501,
     "geom:area_square_m":6031587.861273,
@@ -67,7 +66,7 @@
         }
     ],
     "wof:id":1779806141,
-    "wof:lastmodified":1682971225,
+    "wof:lastmodified":1795577205,
     "wof:name":"Urigam",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

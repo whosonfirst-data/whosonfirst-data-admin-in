@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -58,7 +57,7 @@
         }
     ],
     "wof:id":1847092291,
-    "wof:lastmodified":1683653805,
+    "wof:lastmodified":1795577205,
     "wof:name":"Sabsuki Purwa",
     "wof:parent_id":1813973665,
     "wof:placetype":"neighbourhood",

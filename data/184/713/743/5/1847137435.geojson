@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -113,7 +112,7 @@
         }
     ],
     "wof:id":1847137435,
-    "wof:lastmodified":1683674159,
+    "wof:lastmodified":1795577205,
     "wof:name":"Pur",
     "wof:parent_id":1829928209,
     "wof:placetype":"neighbourhood",

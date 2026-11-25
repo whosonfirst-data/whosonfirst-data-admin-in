@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -104,7 +103,7 @@
         }
     ],
     "wof:id":1847178941,
-    "wof:lastmodified":1683692841,
+    "wof:lastmodified":1795577205,
     "wof:name":"Tera",
     "wof:parent_id":1829888333,
     "wof:placetype":"neighbourhood",

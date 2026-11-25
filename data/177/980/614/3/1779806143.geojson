@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
     "geom:area_square_m":83192.675704,
@@ -95,7 +94,7 @@
         }
     ],
     "wof:id":1779806143,
-    "wof:lastmodified":1690933902,
+    "wof:lastmodified":1795577205,
     "wof:name":"Kandivli",
     "wof:parent_id":1511443649,
     "wof:placetype":"neighbourhood",

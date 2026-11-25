@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -60,7 +59,7 @@
         }
     ],
     "wof:id":1847201789,
-    "wof:lastmodified":1683703122,
+    "wof:lastmodified":1795577205,
     "wof:name":"Rupipur",
     "wof:parent_id":1225887871,
     "wof:placetype":"neighbourhood",

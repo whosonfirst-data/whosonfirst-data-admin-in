@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -386,7 +385,7 @@
         }
     ],
     "wof:id":1847159243,
-    "wof:lastmodified":1686164300,
+    "wof:lastmodified":1795577205,
     "wof:name":"Bari",
     "wof:parent_id":1813970821,
     "wof:placetype":"neighbourhood",

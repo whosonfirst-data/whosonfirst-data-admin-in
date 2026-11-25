@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -60,7 +59,7 @@
         }
     ],
     "wof:id":1847102159,
-    "wof:lastmodified":1683658251,
+    "wof:lastmodified":1795577205,
     "wof:name":"Jamalpura",
     "wof:parent_id":1830050369,
     "wof:placetype":"neighbourhood",

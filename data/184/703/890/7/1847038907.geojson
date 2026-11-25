@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -68,7 +67,7 @@
         }
     ],
     "wof:id":1847038907,
-    "wof:lastmodified":1683629765,
+    "wof:lastmodified":1795577205,
     "wof:name":"Rajghat",
     "wof:parent_id":1327075141,
     "wof:placetype":"neighbourhood",

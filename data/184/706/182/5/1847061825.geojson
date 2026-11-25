@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -92,7 +91,7 @@
         }
     ],
     "wof:id":1847061825,
-    "wof:lastmodified":1683640080,
+    "wof:lastmodified":1795577205,
     "wof:name":"Tola",
     "wof:parent_id":1813899865,
     "wof:placetype":"neighbourhood",

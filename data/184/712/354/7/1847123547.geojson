@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -55,7 +54,7 @@
         }
     ],
     "wof:id":1847123547,
-    "wof:lastmodified":1683667905,
+    "wof:lastmodified":1795577205,
     "wof:name":"Koturu",
     "wof:parent_id":1813698029,
     "wof:placetype":"neighbourhood",

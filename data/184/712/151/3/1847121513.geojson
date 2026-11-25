@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -62,7 +61,7 @@
         }
     ],
     "wof:id":1847121513,
-    "wof:lastmodified":1683666983,
+    "wof:lastmodified":1795577205,
     "wof:name":"Gobindpur",
     "wof:parent_id":1829997623,
     "wof:placetype":"neighbourhood",

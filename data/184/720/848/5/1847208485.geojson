@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -60,7 +59,7 @@
         }
     ],
     "wof:id":1847208485,
-    "wof:lastmodified":1683706125,
+    "wof:lastmodified":1795577205,
     "wof:name":"Munshipura",
     "wof:parent_id":1829838203,
     "wof:placetype":"neighbourhood",

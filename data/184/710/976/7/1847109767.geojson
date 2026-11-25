@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -62,7 +61,7 @@
         }
     ],
     "wof:id":1847109767,
-    "wof:lastmodified":1686164471,
+    "wof:lastmodified":1795577205,
     "wof:name":"Tarapur",
     "wof:parent_id":890509265,
     "wof:placetype":"neighbourhood",

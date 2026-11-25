@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -56,7 +55,7 @@
         }
     ],
     "wof:id":1847055227,
-    "wof:lastmodified":1683637114,
+    "wof:lastmodified":1795577205,
     "wof:name":"Rajelpur",
     "wof:parent_id":1829938625,
     "wof:placetype":"neighbourhood",

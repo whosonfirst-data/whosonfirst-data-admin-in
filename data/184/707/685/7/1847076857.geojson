@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -170,7 +169,7 @@
         }
     ],
     "wof:id":1847076857,
-    "wof:lastmodified":1686548275,
+    "wof:lastmodified":1795577205,
     "wof:name":"Rampur",
     "wof:parent_id":1829927963,
     "wof:placetype":"neighbourhood",

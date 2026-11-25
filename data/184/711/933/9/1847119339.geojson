@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -62,7 +61,7 @@
         }
     ],
     "wof:id":1847119339,
-    "wof:lastmodified":1683666007,
+    "wof:lastmodified":1795577205,
     "wof:name":"Ammaiyappan",
     "wof:parent_id":1259947435,
     "wof:placetype":"neighbourhood",

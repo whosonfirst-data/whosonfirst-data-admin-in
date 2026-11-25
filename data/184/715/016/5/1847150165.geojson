@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -101,7 +100,7 @@
         }
     ],
     "wof:id":1847150165,
-    "wof:lastmodified":1683679888,
+    "wof:lastmodified":1795577205,
     "wof:name":"Tori",
     "wof:parent_id":1209756085,
     "wof:placetype":"neighbourhood",

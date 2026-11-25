@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -353,7 +352,7 @@
         }
     ],
     "wof:id":1847197319,
-    "wof:lastmodified":1683701111,
+    "wof:lastmodified":1795577205,
     "wof:name":"Nevada",
     "wof:parent_id":1813873327,
     "wof:placetype":"neighbourhood",

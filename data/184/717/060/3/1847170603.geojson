@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -62,7 +61,7 @@
         }
     ],
     "wof:id":1847170603,
-    "wof:lastmodified":1683689095,
+    "wof:lastmodified":1795577205,
     "wof:name":"Palla",
     "wof:parent_id":1293384223,
     "wof:placetype":"neighbourhood",
