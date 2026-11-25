@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000796,
     "geom:area_square_m":9306867.666211,
@@ -58,7 +57,7 @@
         }
     ],
     "wof:id":1779806159,
-    "wof:lastmodified":1682971232,
+    "wof:lastmodified":1795577205,
     "wof:name":"Bel\u0101pur",
     "wof:parent_id":1377462779,
     "wof:placetype":"neighbourhood",

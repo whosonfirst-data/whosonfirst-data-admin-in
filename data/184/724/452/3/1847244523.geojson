@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -59,7 +58,7 @@
         }
     ],
     "wof:id":1847244523,
-    "wof:lastmodified":1683722349,
+    "wof:lastmodified":1795577205,
     "wof:name":"Devpur",
     "wof:parent_id":1226690211,
     "wof:placetype":"neighbourhood",

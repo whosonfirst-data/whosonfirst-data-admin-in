@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -167,7 +166,7 @@
         }
     ],
     "wof:id":1847117555,
-    "wof:lastmodified":1683665193,
+    "wof:lastmodified":1795577205,
     "wof:name":"Bor",
     "wof:parent_id":1344095461,
     "wof:placetype":"neighbourhood",

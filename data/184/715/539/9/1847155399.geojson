@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -69,7 +68,7 @@
         }
     ],
     "wof:id":1847155399,
-    "wof:lastmodified":1683682252,
+    "wof:lastmodified":1795577205,
     "wof:name":"Sabalpur",
     "wof:parent_id":1829861989,
     "wof:placetype":"neighbourhood",

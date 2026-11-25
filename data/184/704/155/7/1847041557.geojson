@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -152,7 +151,7 @@
         }
     ],
     "wof:id":1847041557,
-    "wof:lastmodified":1686164386,
+    "wof:lastmodified":1795577205,
     "wof:name":"Nawada",
     "wof:parent_id":1829975179,
     "wof:placetype":"neighbourhood",

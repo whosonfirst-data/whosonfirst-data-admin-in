@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -56,7 +55,7 @@
         }
     ],
     "wof:id":1847117509,
-    "wof:lastmodified":1683665172,
+    "wof:lastmodified":1795577205,
     "wof:name":"Maaur Bojh",
     "wof:parent_id":1830098441,
     "wof:placetype":"neighbourhood",

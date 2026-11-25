@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -92,7 +91,7 @@
         }
     ],
     "wof:id":1847065727,
-    "wof:lastmodified":1683641853,
+    "wof:lastmodified":1795577205,
     "wof:name":"Khera",
     "wof:parent_id":1829839425,
     "wof:placetype":"neighbourhood",

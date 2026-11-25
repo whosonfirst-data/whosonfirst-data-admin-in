@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000275,
     "geom:area_square_m":3130801.580673,
@@ -87,7 +86,7 @@
         }
     ],
     "wof:id":1779806135,
-    "wof:lastmodified":1690933903,
+    "wof:lastmodified":1795577205,
     "wof:name":"Adipur",
     "wof:parent_id":102030257,
     "wof:placetype":"neighbourhood",

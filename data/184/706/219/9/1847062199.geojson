@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -101,7 +100,7 @@
         }
     ],
     "wof:id":1847062199,
-    "wof:lastmodified":1683640246,
+    "wof:lastmodified":1795577205,
     "wof:name":"Malur",
     "wof:parent_id":1813702265,
     "wof:placetype":"neighbourhood",

@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -83,7 +82,7 @@
         }
     ],
     "wof:id":1847223237,
-    "wof:lastmodified":1683712750,
+    "wof:lastmodified":1795577205,
     "wof:name":"Avas",
     "wof:parent_id":1830114199,
     "wof:placetype":"neighbourhood",

@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -60,7 +59,7 @@
         }
     ],
     "wof:id":1847078081,
-    "wof:lastmodified":1683647412,
+    "wof:lastmodified":1795577205,
     "wof:name":"Saraunja Thana",
     "wof:parent_id":1830010737,
     "wof:placetype":"neighbourhood",

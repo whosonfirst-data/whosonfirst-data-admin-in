@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -62,7 +61,7 @@
         }
     ],
     "wof:id":1847144587,
-    "wof:lastmodified":1683677384,
+    "wof:lastmodified":1795577205,
     "wof:name":"Bhogi",
     "wof:parent_id":1276176513,
     "wof:placetype":"neighbourhood",

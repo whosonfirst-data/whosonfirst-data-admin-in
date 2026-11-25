@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00115,
     "geom:area_square_m":13433702.126805,
@@ -73,7 +72,7 @@
         }
     ],
     "wof:id":1779806137,
-    "wof:lastmodified":1690933903,
+    "wof:lastmodified":1795577205,
     "wof:name":"Mahape",
     "wof:parent_id":1377462779,
     "wof:placetype":"neighbourhood",

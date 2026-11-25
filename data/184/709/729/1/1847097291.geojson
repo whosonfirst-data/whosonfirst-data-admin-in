@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -63,7 +62,7 @@
         }
     ],
     "wof:id":1847097291,
-    "wof:lastmodified":1686548238,
+    "wof:lastmodified":1795577205,
     "wof:name":"Jamuwal",
     "wof:parent_id":1326474949,
     "wof:placetype":"neighbourhood",

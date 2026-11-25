@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -61,7 +60,7 @@
         }
     ],
     "wof:id":1847205899,
-    "wof:lastmodified":1683704966,
+    "wof:lastmodified":1795577205,
     "wof:name":"Bolia Kalan",
     "wof:parent_id":1813934017,
     "wof:placetype":"neighbourhood",

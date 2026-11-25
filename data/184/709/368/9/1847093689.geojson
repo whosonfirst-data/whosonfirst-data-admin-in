@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -83,7 +82,7 @@
         }
     ],
     "wof:id":1847093689,
-    "wof:lastmodified":1683654435,
+    "wof:lastmodified":1795577205,
     "wof:name":"Janakpur",
     "wof:parent_id":1829993055,
     "wof:placetype":"neighbourhood",

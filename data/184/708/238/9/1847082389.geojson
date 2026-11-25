@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -191,7 +190,7 @@
         }
     ],
     "wof:id":1847082389,
-    "wof:lastmodified":1686164144,
+    "wof:lastmodified":1795577205,
     "wof:name":"Mirzapur",
     "wof:parent_id":1293334177,
     "wof:placetype":"neighbourhood",

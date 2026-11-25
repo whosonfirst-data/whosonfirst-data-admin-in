@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -59,7 +58,7 @@
         }
     ],
     "wof:id":1847131561,
-    "wof:lastmodified":1683671518,
+    "wof:lastmodified":1795577205,
     "wof:name":"Singhoa",
     "wof:parent_id":1829872459,
     "wof:placetype":"neighbourhood",

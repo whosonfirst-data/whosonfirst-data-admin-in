@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -56,7 +55,7 @@
         }
     ],
     "wof:id":1847149717,
-    "wof:lastmodified":1683679687,
+    "wof:lastmodified":1795577205,
     "wof:name":"Rampia Bar",
     "wof:parent_id":1813955117,
     "wof:placetype":"neighbourhood",

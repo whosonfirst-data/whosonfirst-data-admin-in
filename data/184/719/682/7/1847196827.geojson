@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -56,7 +55,7 @@
         }
     ],
     "wof:id":1847196827,
-    "wof:lastmodified":1683700882,
+    "wof:lastmodified":1795577205,
     "wof:name":"Yelanagaram",
     "wof:parent_id":1813698285,
     "wof:placetype":"neighbourhood",

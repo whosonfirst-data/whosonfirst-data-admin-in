@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -63,7 +62,7 @@
         }
     ],
     "wof:id":1847195797,
-    "wof:lastmodified":1683700419,
+    "wof:lastmodified":1795577205,
     "wof:name":"Kavital",
     "wof:parent_id":1813772465,
     "wof:placetype":"neighbourhood",

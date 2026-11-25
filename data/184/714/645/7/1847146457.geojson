@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -248,7 +247,7 @@
         }
     ],
     "wof:id":1847146457,
-    "wof:lastmodified":1683678229,
+    "wof:lastmodified":1795577205,
     "wof:name":"Hanuman",
     "wof:parent_id":1829901853,
     "wof:placetype":"neighbourhood",

@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001798,
     "geom:area_square_m":21019428.532894,
@@ -125,7 +124,7 @@
         }
     ],
     "wof:id":1779806139,
-    "wof:lastmodified":1690933902,
+    "wof:lastmodified":1795577205,
     "wof:name":"Nerul",
     "wof:parent_id":1377462779,
     "wof:placetype":"neighbourhood",

@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -254,7 +253,7 @@
         }
     ],
     "wof:id":1847141401,
-    "wof:lastmodified":1686164293,
+    "wof:lastmodified":1795577205,
     "wof:name":"Gandhinagar",
     "wof:parent_id":1243407593,
     "wof:placetype":"neighbourhood",

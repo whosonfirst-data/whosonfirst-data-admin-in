@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -55,7 +54,7 @@
         }
     ],
     "wof:id":1847059843,
-    "wof:lastmodified":1683639192,
+    "wof:lastmodified":1795577205,
     "wof:name":"Raghunathdera",
     "wof:parent_id":1829994729,
     "wof:placetype":"neighbourhood",

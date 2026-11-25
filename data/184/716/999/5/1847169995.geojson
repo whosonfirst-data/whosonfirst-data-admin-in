@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -72,7 +71,7 @@
         }
     ],
     "wof:id":1847169995,
-    "wof:lastmodified":1683688823,
+    "wof:lastmodified":1795577205,
     "wof:name":"Shamshabad",
     "wof:parent_id":890505467,
     "wof:placetype":"neighbourhood",

@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -59,7 +58,7 @@
         }
     ],
     "wof:id":1847116761,
-    "wof:lastmodified":1683664829,
+    "wof:lastmodified":1795577205,
     "wof:name":"Pundi",
     "wof:parent_id":1209371835,
     "wof:placetype":"neighbourhood",

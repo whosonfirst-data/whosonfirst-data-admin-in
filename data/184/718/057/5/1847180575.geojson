@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -167,7 +166,7 @@
         }
     ],
     "wof:id":1847180575,
-    "wof:lastmodified":1683693581,
+    "wof:lastmodified":1795577205,
     "wof:name":"Buti",
     "wof:parent_id":1829826395,
     "wof:placetype":"neighbourhood",

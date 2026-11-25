@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -98,7 +97,7 @@
         }
     ],
     "wof:id":1847147705,
-    "wof:lastmodified":1683678788,
+    "wof:lastmodified":1795577205,
     "wof:name":"Ori",
     "wof:parent_id":1829950429,
     "wof:placetype":"neighbourhood",

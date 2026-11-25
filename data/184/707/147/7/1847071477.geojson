@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -60,7 +59,7 @@
         }
     ],
     "wof:id":1847071477,
-    "wof:lastmodified":1683644444,
+    "wof:lastmodified":1795577205,
     "wof:name":"Rasulpur Adampur",
     "wof:parent_id":1829942095,
     "wof:placetype":"neighbourhood",

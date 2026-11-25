@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -89,7 +88,7 @@
         }
     ],
     "wof:id":1847133995,
-    "wof:lastmodified":1683672609,
+    "wof:lastmodified":1795577205,
     "wof:name":"Barbigha",
     "wof:parent_id":890502009,
     "wof:placetype":"neighbourhood",

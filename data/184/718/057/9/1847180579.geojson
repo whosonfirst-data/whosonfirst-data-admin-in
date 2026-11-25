@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -81,7 +80,7 @@
         }
     ],
     "wof:id":1847180579,
-    "wof:lastmodified":1690933849,
+    "wof:lastmodified":1795577205,
     "wof:name":"Chamkaur Sahib",
     "wof:parent_id":1830058627,
     "wof:placetype":"neighbourhood",

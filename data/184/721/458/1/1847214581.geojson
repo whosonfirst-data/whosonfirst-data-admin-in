@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -71,7 +70,7 @@
         }
     ],
     "wof:id":1847214581,
-    "wof:lastmodified":1683708860,
+    "wof:lastmodified":1795577205,
     "wof:name":"Barai",
     "wof:parent_id":1829969367,
     "wof:placetype":"neighbourhood",

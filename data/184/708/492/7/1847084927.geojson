@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -89,7 +88,7 @@
         }
     ],
     "wof:id":1847084927,
-    "wof:lastmodified":1683650495,
+    "wof:lastmodified":1795577205,
     "wof:name":"Gara",
     "wof:parent_id":1813967089,
     "wof:placetype":"neighbourhood",

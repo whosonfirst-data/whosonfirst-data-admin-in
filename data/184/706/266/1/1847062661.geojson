@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -56,7 +55,7 @@
         }
     ],
     "wof:id":1847062661,
-    "wof:lastmodified":1683640472,
+    "wof:lastmodified":1795577205,
     "wof:name":"Asnahra",
     "wof:parent_id":1829951003,
     "wof:placetype":"neighbourhood",

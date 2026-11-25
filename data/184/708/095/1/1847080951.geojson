@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -56,7 +55,7 @@
         }
     ],
     "wof:id":1847080951,
-    "wof:lastmodified":1683648706,
+    "wof:lastmodified":1795577205,
     "wof:name":"Bunti",
     "wof:parent_id":1829837825,
     "wof:placetype":"neighbourhood",

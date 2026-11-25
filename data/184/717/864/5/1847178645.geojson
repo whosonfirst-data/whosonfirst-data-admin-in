@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -125,7 +124,7 @@
         }
     ],
     "wof:id":1847178645,
-    "wof:lastmodified":1686164462,
+    "wof:lastmodified":1795577205,
     "wof:name":"Sultanpur",
     "wof:parent_id":1829915103,
     "wof:placetype":"neighbourhood",

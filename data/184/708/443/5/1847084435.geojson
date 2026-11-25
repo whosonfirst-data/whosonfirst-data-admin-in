@@ -3,7 +3,6 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -89,7 +88,7 @@
         }
     ],
     "wof:id":1847084435,
-    "wof:lastmodified":1683650273,
+    "wof:lastmodified":1795577205,
     "wof:name":"Richha",
     "wof:parent_id":1360229501,
     "wof:placetype":"neighbourhood",
