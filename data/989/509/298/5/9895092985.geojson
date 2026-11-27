@@ -1,0 +1,75 @@
+{
+  "id": 9895092985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.90332,24.70095,93.90332,24.70095",
+    "geom:latitude":24.70095,
+    "geom:longitude":93.90332,
+    "gn:population":16582,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13494539: name \"Samurou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13494539"
+        },
+        {
+            "citation":"GeoNames populated place 13494539: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13494539"
+        },
+        {
+            "citation":"GeoNames populated place 13494539: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13494539"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108696001 (Imphal East), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672183,
+        102191569,
+        1108696001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13494539
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b573c66ef003cc71647dce69b17fa210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108696001,
+            "locality_id":9895092985,
+            "region_id":85672183
+        }
+    ],
+    "wof:id":9895092985,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Samurou",
+    "wof:parent_id":1108696001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.90332,
+    24.70095,
+    93.90332,
+    24.70095
+],
+  "geometry": {"coordinates":[93.90332,24.70095],"type":"Point"}
+}

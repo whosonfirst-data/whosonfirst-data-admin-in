@@ -1,0 +1,75 @@
+{
+  "id": 9895093009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.37514,26.45942,80.37514,26.45942",
+    "geom:latitude":26.45942,
+    "geom:longitude":80.37514,
+    "gn:population":108534,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13645699: name \"Kanpur Cantonment\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13645699"
+        },
+        {
+            "citation":"GeoNames populated place 13645699: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13645699"
+        },
+        {
+            "citation":"GeoNames populated place 13645699: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13645699"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890504051 (Kanpur Nagar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672205,
+        102191569,
+        890504051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13645699
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"569fca50743d4b1149f93f712ca8a369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890504051,
+            "locality_id":9895093009,
+            "region_id":85672205
+        }
+    ],
+    "wof:id":9895093009,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Kanpur Cantonment",
+    "wof:parent_id":890504051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.37514,
+    26.45942,
+    80.37514,
+    26.45942
+],
+  "geometry": {"coordinates":[80.37514,26.45942],"type":"Point"}
+}

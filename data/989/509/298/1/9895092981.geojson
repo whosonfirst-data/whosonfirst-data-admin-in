@@ -1,0 +1,75 @@
+{
+  "id": 9895092981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.1771,19.24588,73.1771,19.24588",
+    "geom:latitude":19.24588,
+    "geom:longitude":73.1771,
+    "gn:population":29462,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13353685: name \"Mharal Bk\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13353685"
+        },
+        {
+            "citation":"GeoNames populated place 13353685: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13353685"
+        },
+        {
+            "citation":"GeoNames populated place 13353685: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13353685"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890501015 (Thane), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672171,
+        102191569,
+        890501015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13353685
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"dce0a788a70627ac7482bb246ce131cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890501015,
+            "locality_id":9895092981,
+            "region_id":85672171
+        }
+    ],
+    "wof:id":9895092981,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Mharal Bk",
+    "wof:parent_id":890501015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.1771,
+    19.24588,
+    73.1771,
+    19.24588
+],
+  "geometry": {"coordinates":[73.1771,19.24588],"type":"Point"}
+}

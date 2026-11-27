@@ -1,0 +1,75 @@
+{
+  "id": 9895093008,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.24805,23.80914,91.24805,23.80914",
+    "geom:latitude":23.80914,
+    "geom:longitude":91.24805,
+    "gn:population":19598,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13494749: name \"Charipara\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13494749"
+        },
+        {
+            "citation":"GeoNames populated place 13494749: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13494749"
+        },
+        {
+            "citation":"GeoNames populated place 13494749: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13494749"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890505607 (West Tripura), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672267,
+        102191569,
+        890505607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13494749
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"4ae89f115f5a2a9ba0fbb565f3298ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890505607,
+            "locality_id":9895093008,
+            "region_id":85672267
+        }
+    ],
+    "wof:id":9895093008,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Charipara",
+    "wof:parent_id":890505607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.24805,
+    23.80914,
+    91.24805,
+    23.80914
+],
+  "geometry": {"coordinates":[91.24805,23.80914],"type":"Point"}
+}

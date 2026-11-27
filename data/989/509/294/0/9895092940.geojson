@@ -1,0 +1,75 @@
+{
+  "id": 9895092940,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.80187,21.55324,81.80187,21.55324",
+    "geom:latitude":21.55324,
+    "geom:longitude":81.80187,
+    "gn:population":36682,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13156960: name \"Tilda Newra\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13156960"
+        },
+        {
+            "citation":"GeoNames populated place 13156960: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13156960"
+        },
+        {
+            "citation":"GeoNames populated place 13156960: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13156960"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108696189 (Raipur), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672231,
+        102191569,
+        1108696189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13156960
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ab20ae90ea3cd3c810a08047f93c62bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108696189,
+            "locality_id":9895092940,
+            "region_id":85672231
+        }
+    ],
+    "wof:id":9895092940,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Tilda Newra",
+    "wof:parent_id":1108696189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.80187,
+    21.55324,
+    81.80187,
+    21.55324
+],
+  "geometry": {"coordinates":[81.80187,21.55324],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 9895092929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.97461,24.71105,93.97461,24.71105",
+    "geom:latitude":24.71105,
+    "geom:longitude":93.97461,
+    "gn:population":24900,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12523370: name \"Keirao Bitra\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12523370"
+        },
+        {
+            "citation":"GeoNames populated place 12523370: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12523370"
+        },
+        {
+            "citation":"GeoNames populated place 12523370: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12523370"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108695999 (Thoubal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672183,
+        102191569,
+        1108695999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12523370
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"0609a0fc444c3e0b64f7e9619b6cab32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695999,
+            "locality_id":9895092929,
+            "region_id":85672183
+        }
+    ],
+    "wof:id":9895092929,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Keirao Bitra",
+    "wof:parent_id":1108695999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.97461,
+    24.71105,
+    93.97461,
+    24.71105
+],
+  "geometry": {"coordinates":[93.97461,24.71105],"type":"Point"}
+}

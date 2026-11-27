@@ -1,0 +1,75 @@
+{
+  "id": 9895092984,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.73161,18.68211,73.73161,18.68211",
+    "geom:latitude":18.68211,
+    "geom:longitude":73.73161,
+    "gn:population":48961,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13353690: name \"Dehu Road\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13353690"
+        },
+        {
+            "citation":"GeoNames populated place 13353690: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13353690"
+        },
+        {
+            "citation":"GeoNames populated place 13353690: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13353690"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890510133 (Pune), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672171,
+        102191569,
+        890510133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13353690
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"5b17f1fabccaba300f40de78b918ddd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890510133,
+            "locality_id":9895092984,
+            "region_id":85672171
+        }
+    ],
+    "wof:id":9895092984,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Dehu Road",
+    "wof:parent_id":890510133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.73161,
+    18.68211,
+    73.73161,
+    18.68211
+],
+  "geometry": {"coordinates":[73.73161,18.68211],"type":"Point"}
+}

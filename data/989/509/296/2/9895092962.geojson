@@ -1,0 +1,75 @@
+{
+  "id": 9895092962,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.86265,30.33544,76.86265,30.33544",
+    "geom:latitude":30.33544,
+    "geom:longitude":76.86265,
+    "gn:population":104974,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13157160: name \"Ambala Sadar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13157160"
+        },
+        {
+            "citation":"GeoNames populated place 13157160: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13157160"
+        },
+        {
+            "citation":"GeoNames populated place 13157160: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13157160"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108695757 (Ambala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672133,
+        102191569,
+        1108695757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13157160
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"bfa3df3d7fd190da02a8bd46d3e450cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695757,
+            "locality_id":9895092962,
+            "region_id":85672133
+        }
+    ],
+    "wof:id":9895092962,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Ambala Sadar",
+    "wof:parent_id":1108695757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.86265,
+    30.33544,
+    76.86265,
+    30.33544
+],
+  "geometry": {"coordinates":[76.86265,30.33544],"type":"Point"}
+}

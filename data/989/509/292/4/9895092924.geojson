@@ -1,0 +1,75 @@
+{
+  "id": 9895092924,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.76006,19.58148,84.76006,19.58148",
+    "geom:latitude":19.58148,
+    "geom:longitude":84.76006,
+    "gn:population":17430,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12518878: name \"Kavisuryanagar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12518878"
+        },
+        {
+            "citation":"GeoNames populated place 12518878: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12518878"
+        },
+        {
+            "citation":"GeoNames populated place 12518878: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12518878"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890507443 (Ganjam), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672157,
+        102191569,
+        890507443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12518878
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ffd0fd964218e4d585c7631b13e3b465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890507443,
+            "locality_id":9895092924,
+            "region_id":85672157
+        }
+    ],
+    "wof:id":9895092924,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Kavisuryanagar",
+    "wof:parent_id":890507443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.76006,
+    19.58148,
+    84.76006,
+    19.58148
+],
+  "geometry": {"coordinates":[84.76006,19.58148],"type":"Point"}
+}

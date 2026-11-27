@@ -1,0 +1,75 @@
+{
+  "id": 9895092993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.24761,8.20946,77.24761,8.20946",
+    "geom:latitude":8.20946,
+    "geom:longitude":77.24761,
+    "gn:population":18589,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13494696: name \"Palappallam\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13494696"
+        },
+        {
+            "citation":"GeoNames populated place 13494696: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13494696"
+        },
+        {
+            "citation":"GeoNames populated place 13494696: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13494696"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890503399 (Kanniyakumari), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672245,
+        102191569,
+        890503399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13494696
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"06e3060b6af8e5abcc7ec33dd47edf9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890503399,
+            "locality_id":9895092993,
+            "region_id":85672245
+        }
+    ],
+    "wof:id":9895092993,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Palappallam",
+    "wof:parent_id":890503399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.24761,
+    8.20946,
+    77.24761,
+    8.20946
+],
+  "geometry": {"coordinates":[77.24761,8.20946],"type":"Point"}
+}

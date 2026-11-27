@@ -1,0 +1,86 @@
+{
+  "id": 9895092930,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.03991,27.36173,93.03991,27.36173",
+    "geom:latitude":27.36173,
+    "geom:longitude":93.03991,
+    "gn:population":18350,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12524323: name \"Seppa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12524323"
+        },
+        {
+            "citation":"GeoNames populated place 12524323: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12524323"
+        },
+        {
+            "citation":"GeoNames populated place 12524323: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12524323"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108695959 (East Kameng), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85632695,
+        85632701,
+        85672259,
+        102191569,
+        1108695959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12524323
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2ac1cbf77fb4c6576ca1fafcda285704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695959,
+            "disputed_id":85632701,
+            "locality_id":9895092930,
+            "region_id":85672259
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108695959,
+            "disputed_id":85632701,
+            "locality_id":9895092930,
+            "region_id":85672259
+        }
+    ],
+    "wof:id":9895092930,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Seppa",
+    "wof:parent_id":1108695959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.03991,
+    27.36173,
+    93.03991,
+    27.36173
+],
+  "geometry": {"coordinates":[93.03991,27.36173],"type":"Point"}
+}

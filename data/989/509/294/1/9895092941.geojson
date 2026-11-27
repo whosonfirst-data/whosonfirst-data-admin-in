@@ -1,0 +1,75 @@
+{
+  "id": 9895092941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.45609,21.22305,81.45609,21.22305",
+    "geom:latitude":21.22305,
+    "geom:longitude":81.45609,
+    "gn:population":98008,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13156961: name \"Bhilai Charoda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13156961"
+        },
+        {
+            "citation":"GeoNames populated place 13156961: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13156961"
+        },
+        {
+            "citation":"GeoNames populated place 13156961: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13156961"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108696187 (Durg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672231,
+        102191569,
+        1108696187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13156961
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"1f6bb76e3a3639365755bf9701218c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108696187,
+            "locality_id":9895092941,
+            "region_id":85672231
+        }
+    ],
+    "wof:id":9895092941,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Bhilai Charoda",
+    "wof:parent_id":1108696187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.45609,
+    21.22305,
+    81.45609,
+    21.22305
+],
+  "geometry": {"coordinates":[81.45609,21.22305],"type":"Point"}
+}

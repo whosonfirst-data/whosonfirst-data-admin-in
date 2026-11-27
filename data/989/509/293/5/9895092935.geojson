@@ -1,0 +1,75 @@
+{
+  "id": 9895092935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.02026,25.63616,85.02026,25.63616",
+    "geom:latitude":25.63616,
+    "geom:longitude":85.02026,
+    "gn:population":28723,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13156929: name \"Dinapur Cantonment\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13156929"
+        },
+        {
+            "citation":"GeoNames populated place 13156929: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13156929"
+        },
+        {
+            "citation":"GeoNames populated place 13156929: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13156929"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890504089 (Patna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672225,
+        102191569,
+        890504089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13156929
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"a9619d55558f222cf4fcfc32bd578873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890504089,
+            "locality_id":9895092935,
+            "region_id":85672225
+        }
+    ],
+    "wof:id":9895092935,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Dinapur Cantonment",
+    "wof:parent_id":890504089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.02026,
+    25.63616,
+    85.02026,
+    25.63616
+],
+  "geometry": {"coordinates":[85.02026,25.63616],"type":"Point"}
+}

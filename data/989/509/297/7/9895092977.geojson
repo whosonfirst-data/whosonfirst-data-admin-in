@@ -1,0 +1,75 @@
+{
+  "id": 9895092977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.92575,11.13723,75.92575,11.13723",
+    "geom:latitude":11.13723,
+    "geom:longitude":75.92575,
+    "gn:population":46962,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13353579: name \"Pallikal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13353579"
+        },
+        {
+            "citation":"GeoNames populated place 13353579: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13353579"
+        },
+        {
+            "citation":"GeoNames populated place 13353579: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13353579"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890502819 (Malappuram), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672149,
+        102191569,
+        890502819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13353579
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"c7610567d9a7b54cb63d0fdc6eb61ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890502819,
+            "locality_id":9895092977,
+            "region_id":85672149
+        }
+    ],
+    "wof:id":9895092977,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Pallikal",
+    "wof:parent_id":890502819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.92575,
+    11.13723,
+    75.92575,
+    11.13723
+],
+  "geometry": {"coordinates":[75.92575,11.13723],"type":"Point"}
+}

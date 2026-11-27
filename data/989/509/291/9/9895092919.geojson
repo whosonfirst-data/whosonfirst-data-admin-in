@@ -1,0 +1,75 @@
+{
+  "id": 9895092919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.11324,10.96251,78.11324,10.96251",
+    "geom:latitude":10.96251,
+    "geom:longitude":78.11324,
+    "gn:population":22447,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11657535: name \"Senapparetti\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11657535"
+        },
+        {
+            "citation":"GeoNames populated place 11657535: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11657535"
+        },
+        {
+            "citation":"GeoNames populated place 11657535: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11657535"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890504243 (Karur), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672245,
+        102191569,
+        890504243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11657535
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fa4f368389ab91fe0637e4cc567ccca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890504243,
+            "locality_id":9895092919,
+            "region_id":85672245
+        }
+    ],
+    "wof:id":9895092919,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Senapparetti",
+    "wof:parent_id":890504243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.11324,
+    10.96251,
+    78.11324,
+    10.96251
+],
+  "geometry": {"coordinates":[78.11324,10.96251],"type":"Point"}
+}

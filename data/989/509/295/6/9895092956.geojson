@@ -1,0 +1,75 @@
+{
+  "id": 9895092956,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.13313,22.34835,73.13313,22.34835",
+    "geom:latitude":22.34835,
+    "geom:longitude":73.13313,
+    "gn:population":16902,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13157125: name \"Undera\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13157125"
+        },
+        {
+            "citation":"GeoNames populated place 13157125: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13157125"
+        },
+        {
+            "citation":"GeoNames populated place 13157125: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13157125"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108696273 (Vadodara), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672249,
+        102191569,
+        1108696273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13157125
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9dd11154bd443152d621edc495f66cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108696273,
+            "locality_id":9895092956,
+            "region_id":85672249
+        }
+    ],
+    "wof:id":9895092956,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Undera",
+    "wof:parent_id":1108696273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.13313,
+    22.34835,
+    73.13313,
+    22.34835
+],
+  "geometry": {"coordinates":[73.13313,22.34835],"type":"Point"}
+}

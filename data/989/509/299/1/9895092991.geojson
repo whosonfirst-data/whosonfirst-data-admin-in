@@ -1,0 +1,75 @@
+{
+  "id": 9895092991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.09337,10.75943,79.09337,10.75943",
+    "geom:latitude":10.75943,
+    "geom:longitude":79.09337,
+    "gn:population":16197,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13494688: name \"Neelagiri\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13494688"
+        },
+        {
+            "citation":"GeoNames populated place 13494688: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13494688"
+        },
+        {
+            "citation":"GeoNames populated place 13494688: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13494688"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890507453 (Thanjavur), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672245,
+        102191569,
+        890507453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13494688
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"02854f889f7ed1229289437153347eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890507453,
+            "locality_id":9895092991,
+            "region_id":85672245
+        }
+    ],
+    "wof:id":9895092991,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Neelagiri",
+    "wof:parent_id":890507453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.09337,
+    10.75943,
+    79.09337,
+    10.75943
+],
+  "geometry": {"coordinates":[79.09337,10.75943],"type":"Point"}
+}
