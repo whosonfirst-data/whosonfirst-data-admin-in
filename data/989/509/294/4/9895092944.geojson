@@ -1,0 +1,75 @@
+{
+  "id": 9895092944,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.22569,28.42953,77.22569,28.42953",
+    "geom:latitude":28.42953,
+    "geom:longitude":77.22569,
+    "gn:population":18864,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13156998: name \"Bhati\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13156998"
+        },
+        {
+            "citation":"GeoNames populated place 13156998: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13156998"
+        },
+        {
+            "citation":"GeoNames populated place 13156998: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13156998"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890510431 (South Delhi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672123,
+        102191569,
+        890510431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13156998
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"8b639b1b7e6a83ab29a1da84f923c1c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890510431,
+            "locality_id":9895092944,
+            "region_id":85672123
+        }
+    ],
+    "wof:id":9895092944,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Bhati",
+    "wof:parent_id":890510431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.22569,
+    28.42953,
+    77.22569,
+    28.42953
+],
+  "geometry": {"coordinates":[77.22569,28.42953],"type":"Point"}
+}

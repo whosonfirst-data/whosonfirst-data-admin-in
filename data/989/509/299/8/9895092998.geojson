@@ -1,0 +1,75 @@
+{
+  "id": 9895092998,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.10513,8.83868,78.10513,8.83868",
+    "geom:latitude":8.83868,
+    "geom:longitude":78.10513,
+    "gn:population":19844,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13494703: name \"Sankaraperi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13494703"
+        },
+        {
+            "citation":"GeoNames populated place 13494703: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13494703"
+        },
+        {
+            "citation":"GeoNames populated place 13494703: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13494703"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890510039 (Thoothukkudi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672245,
+        102191569,
+        890510039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13494703
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"954c763d1e7286bcd5dd24faec357c3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890510039,
+            "locality_id":9895092998,
+            "region_id":85672245
+        }
+    ],
+    "wof:id":9895092998,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Sankaraperi",
+    "wof:parent_id":890510039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.10513,
+    8.83868,
+    78.10513,
+    8.83868
+],
+  "geometry": {"coordinates":[78.10513,8.83868],"type":"Point"}
+}

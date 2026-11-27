@@ -1,0 +1,75 @@
+{
+  "id": 9895092957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.02759,21.61675,73.02759,21.61675",
+    "geom:latitude":21.61675,
+    "geom:longitude":73.02759,
+    "gn:population":24789,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13157133: name \"Anklesvar INA\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13157133"
+        },
+        {
+            "citation":"GeoNames populated place 13157133: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13157133"
+        },
+        {
+            "citation":"GeoNames populated place 13157133: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13157133"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890507571 (Bharuch), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672249,
+        102191569,
+        890507571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13157133
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"ecf49b83f45b38fac7457167301626d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890507571,
+            "locality_id":9895092957,
+            "region_id":85672249
+        }
+    ],
+    "wof:id":9895092957,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Anklesvar INA",
+    "wof:parent_id":890507571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.02759,
+    21.61675,
+    73.02759,
+    21.61675
+],
+  "geometry": {"coordinates":[73.02759,21.61675],"type":"Point"}
+}

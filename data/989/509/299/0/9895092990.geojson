@@ -1,0 +1,75 @@
+{
+  "id": 9895092990,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.10087,26.31157,73.10087,26.31157",
+    "geom:latitude":26.31157,
+    "geom:longitude":73.10087,
+    "gn:population":20827,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13494613: name \"Nandri\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13494613"
+        },
+        {
+            "citation":"GeoNames populated place 13494613: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13494613"
+        },
+        {
+            "citation":"GeoNames populated place 13494613: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13494613"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890507095 (Jodhpur), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672201,
+        102191569,
+        890507095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13494613
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"7f976701db6ffc51b97fb27ca70b7255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890507095,
+            "locality_id":9895092990,
+            "region_id":85672201
+        }
+    ],
+    "wof:id":9895092990,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Nandri",
+    "wof:parent_id":890507095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.10087,
+    26.31157,
+    73.10087,
+    26.31157
+],
+  "geometry": {"coordinates":[73.10087,26.31157],"type":"Point"}
+}

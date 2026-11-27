@@ -1,0 +1,75 @@
+{
+  "id": 9895092932,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.48568,13.63229,79.48568,13.63229",
+    "geom:latitude":13.63229,
+    "geom:longitude":79.48568,
+    "gn:population":37968,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13156775: name \"Tirupati NMA\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13156775"
+        },
+        {
+            "citation":"GeoNames populated place 13156775: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13156775"
+        },
+        {
+            "citation":"GeoNames populated place 13156775: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13156775"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890508207 (Chittoor), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672141,
+        102191569,
+        890508207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13156775
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"9aa6d24aa146b816371ba1622513e187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890508207,
+            "locality_id":9895092932,
+            "region_id":85672141
+        }
+    ],
+    "wof:id":9895092932,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Tirupati NMA",
+    "wof:parent_id":890508207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.48568,
+    13.63229,
+    79.48568,
+    13.63229
+],
+  "geometry": {"coordinates":[79.48568,13.63229],"type":"Point"}
+}

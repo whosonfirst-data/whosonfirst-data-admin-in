@@ -1,0 +1,86 @@
+{
+  "id": 9895092915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.9479,33.14584,75.9479,33.14584",
+    "geom:latitude":33.14584,
+    "geom:longitude":75.9479,
+    "gn:population":15899,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 10677907: name \"Bunjwah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/10677907"
+        },
+        {
+            "citation":"GeoNames populated place 10677907: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/10677907"
+        },
+        {
+            "citation":"GeoNames populated place 10677907: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/10677907"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108695729 (Kishtwar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632427,
+        85632469,
+        85632659,
+        102191569,
+        1108695729,
+        1796791507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10677907
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"b07bb9728ed01de72abc81cc504e8cfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695729,
+            "disputed_id":85632427,
+            "locality_id":9895092915,
+            "region_id":1796791507
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695729,
+            "disputed_id":85632427,
+            "locality_id":9895092915,
+            "region_id":1796791507
+        }
+    ],
+    "wof:id":9895092915,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Bunjwah",
+    "wof:parent_id":1108695729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.9479,
+    33.14584,
+    75.9479,
+    33.14584
+],
+  "geometry": {"coordinates":[75.9479,33.14584],"type":"Point"}
+}

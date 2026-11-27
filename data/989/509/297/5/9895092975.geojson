@@ -1,0 +1,75 @@
+{
+  "id": 9895092975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.53127,9.61827,76.53127,9.61827",
+    "geom:latitude":9.61827,
+    "geom:longitude":76.53127,
+    "gn:population":42839,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13353573: name \"Perumbaikad\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13353573"
+        },
+        {
+            "citation":"GeoNames populated place 13353573: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13353573"
+        },
+        {
+            "citation":"GeoNames populated place 13353573: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13353573"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108696345 (Kottayam), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672149,
+        102191569,
+        1108696345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13353573
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"98c30bad9a343f9a834cbaecebc8b85d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108696345,
+            "locality_id":9895092975,
+            "region_id":85672149
+        }
+    ],
+    "wof:id":9895092975,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Perumbaikad",
+    "wof:parent_id":1108696345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.53127,
+    9.61827,
+    76.53127,
+    9.61827
+],
+  "geometry": {"coordinates":[76.53127,9.61827],"type":"Point"}
+}

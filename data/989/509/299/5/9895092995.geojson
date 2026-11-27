@@ -1,0 +1,75 @@
+{
+  "id": 9895092995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.20806,12.92028,80.20806,12.92028",
+    "geom:latitude":12.92028,
+    "geom:longitude":80.20806,
+    "gn:population":19100,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13494699: name \"Jalladiampet\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13494699"
+        },
+        {
+            "citation":"GeoNames populated place 13494699: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13494699"
+        },
+        {
+            "citation":"GeoNames populated place 13494699: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13494699"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890505403 (Chennai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672245,
+        102191569,
+        890505403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13494699
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"d1ff49702b1bdf017e03b27208a25ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890505403,
+            "locality_id":9895092995,
+            "region_id":85672245
+        }
+    ],
+    "wof:id":9895092995,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Jalladiampet",
+    "wof:parent_id":890505403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.20806,
+    12.92028,
+    80.20806,
+    12.92028
+],
+  "geometry": {"coordinates":[80.20806,12.92028],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 9895092989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.79308,30.77515,76.79308,30.77515",
+    "geom:latitude":30.77515,
+    "geom:longitude":76.79308,
+    "gn:population":50869,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13494597: name \"Naya Gaon\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13494597"
+        },
+        {
+            "citation":"GeoNames populated place 13494597: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13494597"
+        },
+        {
+            "citation":"GeoNames populated place 13494597: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13494597"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108695747 (Sahibzada Ajit Singh Nagar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672195,
+        102191569,
+        1108695747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13494597
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"424ad580fdd519c73745e8446b0c043a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695747,
+            "locality_id":9895092989,
+            "region_id":85672195
+        }
+    ],
+    "wof:id":9895092989,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Naya Gaon",
+    "wof:parent_id":1108695747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.79308,
+    30.77515,
+    76.79308,
+    30.77515
+],
+  "geometry": {"coordinates":[76.79308,30.77515],"type":"Point"}
+}

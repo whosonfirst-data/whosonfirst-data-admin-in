@@ -1,0 +1,75 @@
+{
+  "id": 9895092997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.13373,12.9534,79.13373,12.9534",
+    "geom:latitude":12.9534,
+    "geom:longitude":79.13373,
+    "gn:population":19828,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13494702: name \"Kalinjur\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13494702"
+        },
+        {
+            "citation":"GeoNames populated place 13494702: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13494702"
+        },
+        {
+            "citation":"GeoNames populated place 13494702: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13494702"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890501995 (Vellore), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672245,
+        102191569,
+        890501995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13494702
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"f69e50de0a07a9de9918dcebc165126f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890501995,
+            "locality_id":9895092997,
+            "region_id":85672245
+        }
+    ],
+    "wof:id":9895092997,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Kalinjur",
+    "wof:parent_id":890501995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.13373,
+    12.9534,
+    79.13373,
+    12.9534
+],
+  "geometry": {"coordinates":[79.13373,12.9534],"type":"Point"}
+}

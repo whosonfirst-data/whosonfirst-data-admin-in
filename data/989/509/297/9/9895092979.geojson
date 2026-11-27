@@ -1,0 +1,75 @@
+{
+  "id": 9895092979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.29161,19.87609,75.29161,19.87609",
+    "geom:latitude":19.87609,
+    "geom:longitude":75.29161,
+    "gn:population":18051,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13353676: name \"Aurangabad Cantonment\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13353676"
+        },
+        {
+            "citation":"GeoNames populated place 13353676: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13353676"
+        },
+        {
+            "citation":"GeoNames populated place 13353676: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13353676"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108696303 (Aurangabad), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672171,
+        102191569,
+        1108696303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13353676
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"80859983203657451a60e8671cbb22a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108696303,
+            "locality_id":9895092979,
+            "region_id":85672171
+        }
+    ],
+    "wof:id":9895092979,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Aurangabad Cantonment",
+    "wof:parent_id":1108696303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.29161,
+    19.87609,
+    75.29161,
+    19.87609
+],
+  "geometry": {"coordinates":[75.29161,19.87609],"type":"Point"}
+}

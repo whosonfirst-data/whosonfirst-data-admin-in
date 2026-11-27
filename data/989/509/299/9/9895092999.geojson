@@ -1,0 +1,75 @@
+{
+  "id": 9895092999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.14177,12.98913,80.14177,12.98913",
+    "geom:latitude":12.98913,
+    "geom:longitude":80.14177,
+    "gn:population":21906,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13494705: name \"Polichalur\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13494705"
+        },
+        {
+            "citation":"GeoNames populated place 13494705: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13494705"
+        },
+        {
+            "citation":"GeoNames populated place 13494705: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13494705"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890509125 (Kancheepuram), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672245,
+        102191569,
+        890509125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13494705
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e6f00a93aeda82472ca9e0be4919d2c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890509125,
+            "locality_id":9895092999,
+            "region_id":85672245
+        }
+    ],
+    "wof:id":9895092999,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Polichalur",
+    "wof:parent_id":890509125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.14177,
+    12.98913,
+    80.14177,
+    12.98913
+],
+  "geometry": {"coordinates":[80.14177,12.98913],"type":"Point"}
+}

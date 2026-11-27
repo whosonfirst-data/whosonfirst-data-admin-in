@@ -1,0 +1,75 @@
+{
+  "id": 9895092948,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.288,28.61644,77.288,28.61644",
+    "geom:latitude":28.61644,
+    "geom:longitude":77.288,
+    "gn:population":37876,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13157006: name \"Gharonda Neemka Bangar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13157006"
+        },
+        {
+            "citation":"GeoNames populated place 13157006: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13157006"
+        },
+        {
+            "citation":"GeoNames populated place 13157006: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13157006"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890510377 (East Delhi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672123,
+        102191569,
+        890510377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13157006
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"3778e2289308ea877e16b32a658cfdd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890510377,
+            "locality_id":9895092948,
+            "region_id":85672123
+        }
+    ],
+    "wof:id":9895092948,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Gharonda Neemka Bangar",
+    "wof:parent_id":890510377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.288,
+    28.61644,
+    77.288,
+    28.61644
+],
+  "geometry": {"coordinates":[77.288,28.61644],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 9895092972,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.06371,8.393,77.06371,8.393",
+    "geom:latitude":8.393,
+    "geom:longitude":77.06371,
+    "gn:population":40712,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13353569: name \"Athiyannur\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13353569"
+        },
+        {
+            "citation":"GeoNames populated place 13353569: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13353569"
+        },
+        {
+            "citation":"GeoNames populated place 13353569: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13353569"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890508831 (Thiruvananthapuram), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672149,
+        102191569,
+        890508831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13353569
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"e2040d6d285e5c0adfae1177d2e1fdde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890508831,
+            "locality_id":9895092972,
+            "region_id":85672149
+        }
+    ],
+    "wof:id":9895092972,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Athiyannur",
+    "wof:parent_id":890508831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.06371,
+    8.393,
+    77.06371,
+    8.393
+],
+  "geometry": {"coordinates":[77.06371,8.393],"type":"Point"}
+}

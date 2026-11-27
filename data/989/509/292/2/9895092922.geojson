@@ -1,0 +1,75 @@
+{
+  "id": 9895092922,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.9563,11.1916,77.9563,11.1916",
+    "geom:latitude":11.1916,
+    "geom:longitude":77.9563,
+    "gn:population":25012,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12501142: name \"Paramathi Velur\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12501142"
+        },
+        {
+            "citation":"GeoNames populated place 12501142: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12501142"
+        },
+        {
+            "citation":"GeoNames populated place 12501142: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12501142"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890505343 (Namakkal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672245,
+        102191569,
+        890505343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12501142
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"65aee2ef686c6819add33226dea1e4db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890505343,
+            "locality_id":9895092922,
+            "region_id":85672245
+        }
+    ],
+    "wof:id":9895092922,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Paramathi Velur",
+    "wof:parent_id":890505343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.9563,
+    11.1916,
+    77.9563,
+    11.1916
+],
+  "geometry": {"coordinates":[77.9563,11.1916],"type":"Point"}
+}

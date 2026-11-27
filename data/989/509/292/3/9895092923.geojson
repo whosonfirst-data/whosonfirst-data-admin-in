@@ -1,0 +1,75 @@
+{
+  "id": 9895092923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.80144,29.94265,75.80144,29.94265",
+    "geom:latitude":29.94265,
+    "geom:longitude":75.80144,
+    "gn:population":22588,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12501476: name \"Lehragaga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12501476"
+        },
+        {
+            "citation":"GeoNames populated place 12501476: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12501476"
+        },
+        {
+            "citation":"GeoNames populated place 12501476: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12501476"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108695749 (Sangrur), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672195,
+        102191569,
+        1108695749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12501476
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"157b0c71258bf463d3a4bf5be77f7c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695749,
+            "locality_id":9895092923,
+            "region_id":85672195
+        }
+    ],
+    "wof:id":9895092923,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Lehragaga",
+    "wof:parent_id":1108695749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.80144,
+    29.94265,
+    75.80144,
+    29.94265
+],
+  "geometry": {"coordinates":[75.80144,29.94265],"type":"Point"}
+}

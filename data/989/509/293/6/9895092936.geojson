@@ -1,0 +1,75 @@
+{
+  "id": 9895092936,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.19356,25.88761,87.19356,25.88761",
+    "geom:latitude":25.88761,
+    "geom:longitude":87.19356,
+    "gn:population":30336,
+    "iso:country":"IN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13156930: name \"Banmankhi Bazar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13156930"
+        },
+        {
+            "citation":"GeoNames populated place 13156930: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13156930"
+        },
+        {
+            "citation":"GeoNames populated place 13156930: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13156930"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108695907 (Purnia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632469,
+        85672225,
+        102191569,
+        1108695907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13156930
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"2988afef01d12043140e445025b09705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695907,
+            "locality_id":9895092936,
+            "region_id":85672225
+        }
+    ],
+    "wof:id":9895092936,
+    "wof:lastmodified":1795747917,
+    "wof:name":"Banmankhi Bazar",
+    "wof:parent_id":1108695907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-in",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.19356,
+    25.88761,
+    87.19356,
+    25.88761
+],
+  "geometry": {"coordinates":[87.19356,25.88761],"type":"Point"}
+}
